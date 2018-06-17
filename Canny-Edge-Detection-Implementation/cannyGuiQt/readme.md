@@ -1,4 +1,5 @@
-#Canny Detection Gui
+
+# Canny Detection Gui
 
 Just load an image into it(Note that you have to change the path of the object in this file to C:\\ in loadClicked function and saveClicked Function).
 
@@ -8,4 +9,4 @@ Click Canny Apply button and change slider position to get varied canny results.
 
 
 
-## note: face detect doesnot work, it will be added into further projects. Thanks.
+##### note: Face and Eye Detect does not work, It will be added into further projects. Thanks.
