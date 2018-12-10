@@ -11,5 +11,8 @@ Following Algorithms have been included:
 5) PCA
 6) K Means
 7) Neural Networks
+8) Decision Tree
+9) Support Vector Machine
+10) R2 Score and Metrics
 
-More
+### Note SKLearn is used from testing the code and datesets.
