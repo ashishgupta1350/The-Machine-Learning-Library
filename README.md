@@ -1,2 +1,15 @@
-# ML_Algorithms_from_Scratch
-These are the implementations of various algorithms. Mostly the algorithms are in python, but I have coded some of them in Matlab, just to get a different programming view to the problem. There are several algorithms I have implemented successfully, most of which were Theory -> Code,  Like the Gradient Descent, Naive Bayes, NN, Decision Trees of 2 digit classification etc...
+# The Machine Learning Library
+
+
+These are the implementations of algorithms used in Machine Learning using numpy. 
+
+Following Algorithms have been included:
+1) Linear Regression in 2 variables
+2) Multi Linear Regression
+3) Logistic Regression
+4) Naive Bayes
+5) PCA
+6) K Means
+7) Neural Networks
+
+More
