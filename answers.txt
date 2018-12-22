@@ -1,0 +1,1376 @@
+When I had an opportunity for an internship, I decided not to join any internship, instead join Coding Ninjas. I have been taught by Ankush Sir. He is an amazing , and his teaching is very brilliant.
+
+Many of my basic concepts got cleared fast. He has a very good approach towards the question and he delivers his fullest to the students. You learn multiple approaches towards solving a particular question. With the environment of students out there you get to know the multiple ways to think of a solution.
+
+Advantages of this courses are : Your basic concepts will get cleared. Problem solving ability and reasoning skills will thrive.Practice of more than 10 projects in the span of the course, decision trees, naive bayes and the dreaded math of neural network. It was not easy, but it was fun. 
+
+Confidence to write any algorithm in Machine Learning from scratch. You will be able to write a whole set of projects on resume. The projects are very amazing. Above all, they are practical and least boring. Maths intensive concepts are solved in class, sir takes care to do the heavy lifting for us. I remember making spam classifiers and classifying news data sets, Simulating brain and using advanced libraries :)
+Online assessment of your codes is very fast. TA support is very amazing and satisfying, one can’t beat that on Udemy. Udacity offers same quality, their courses are 6 months long and very very expensive.
+Not just Python, you learn Data visualization, Numpy, Pandas, Intro to Artificial Intelligence, Sklearn, Google’s Tensorflow etc. I was also pleasantly surprised by the content.
+
+Some Suggestion Though:
+
+If you are looking to join this course make sure you join this before the third year of your engineering. According to me this is the best time to join this course and explore.
+
+%%
+
+
+
+Most of the answers here are focusing on the wrong stuff.
+
+SUBJECTIVE THINGS: Different people will have different opinions, that may be based on their perception, so take the following with a grain of salt:
+
+Faculty Different students like different teachers. Funny teachers vs. prodigy teachers vs. teachers with industry experience. Coding Blocks, Coding Ninjas, and Coding Elements, all seem to offer great faculty with industry experience.
+Teaching Methodology. Again, different students have different learning styles. Online vs. offline, Competition vs. Privacy, Group vs. Solo, Interactive vs. Coasting. Again, all 3 institutes have similar teaching styles. Classroom lectures, online platform, homework assignments, etc.
+
+So, the above criteria are probably not the best decision making tools.
+OBJECTIVE THINGS: These can help you decide more critically, because there is no grey-area here:
+
+Class size: 
+
+This is something that many students forget to account for. Small class size means that you can ask questions freely during class, and have easy access to the instructor. Large classes can be intimidating.
+Blocks and Ninja put 50–60 students in the same batch.
+Coding Elements breaks their batch into small batches of 10–15 students. This can be very beneficial for each student.
+
+Curriculum / Jobs
+
+Although curriculum can be subjective too, there is an easy way to analyze the curriculum, especially if you are looking for jobs. Search for jobs in a given technology on LinkedIn, Indeed, Internshala, etc. See how many jobs you are seeing in your city for that language/framework and how that number is growing over time.
+
+All 3 institutes have strong Java and C++ curriculum. Coding Elements has a very strong Python, Web, and Machine Learning curriculum. (Node, Socket, React, Deep Learning, Django) Blocks has a very strong Algorithms, Android, and Python curriculum. Ninjas has a very strong Algorithms, Android, and Competitive Programming curriculum.
+Age of institute Old means well established and smooth. New means cutting edge and fast. So the age of institute can be pro or con.
+Blocks and Ninja have been operating for around 3-4 years.
+Elements is only 1 year old. Fee : All 3 institutes have basically the same fee structure.
+
+When I was deciding which institute to choose, I saw a lot of fuzzy adjectives like “helpful”, “supportive”, “friendly”, but that did not help me. So I looked at the objective factors in a strategic manner. Then I decided the adjectives myself.
+
+%%
+
+
+Most of the comments here are not justified as students have seen one side of the coin. Either they have taken coaching in Ninja or CB. Best way to know which is good for you is to take feedback from your friends/junior/senior in college. Talk to them and see how much they learnt and how confident they are.
+
+I challenged if people say facility is more experienced or knowledgeable in Ninja. We have most faculty either have industry experience of teaching or have won multiple hackaton, Participated in GSoC multiple times, strong in competitive coding etc.
+
+I am also co-founder of Nagarro and Vidyamandir Classes. I have been in IT from last 23 years. I was CTO of Nagarro once. I started coding blocks with a vision of giving back to society. I wanted to see Indian developers better than people globally because we have enormous talent. But our students are not guided well in colleges. That is why I entered into this startup. Ninja team was also part of CB once but we got split in the way.
+
+We strongly believe in our vision and keep doing whatever we can do to prepare our students for global challenges.
+
+-live life happily
+
+
+%%
+
+
+Long Story Short. I ended up doing 3 online courses(c++, machine learning & competitive programming) and 0 offline courses at Coding Ninjas. My brother did 2 of them offline(web and java). Its great!
+
+The online courses are Very nice. I like most others enrolled for it only because there was no seat left in offline program. They were in fact overbooked with waiting list also full. I knew I had no choice but to take online program or wait till August:P I am glad I did not.
+
+There are 5 things that make this the ideal choice if you want to learn programming:
+
+    First it will teach you how to learn things outside class. Consider this, once you do offline course you will definitely head towards ML or Data Science or even take YouTube courses on Photoshop, Illustrator, Dreamweaver. Try learn them now , you will realize how boring it gets after only a few hours because its free and painful :P Doing this course online will help set a platform from where you will be able to overcome a lot of frustration normally encountered while doing an online course. From there on you can even excel at online courses on Coursera while your other “Lucky offline class friend” will be intensely bored and frustrated and will search for some other classroom course.
+    Its more challenging than offline programs. Once you step out of your comfort zone, things will get ugly. The course structure is well designed , spreading easy problems evenly with medium and harder problems to help you find motivation to just go on. Trust me, if you are motivated enough to read this article on Quora this long, you will sail through the course easily. Its quiet well designed and has exactly the same content as offline course so it wont be too easy too. Even after one year of coding, I still bit my nails on some test problems at the end of this course. Be sure to be strong, things are going to get rough if you take the course. But it will be fun:)
+    The TA support you get is just AWESOME. As someone earlier mentioned, at 1 am also , you are likely to get TA support, if not until 9 am you will. I remember the LCS(Dynamic Programming | Set 4 (Longest Common Subsequence) - GeeksforGeeks) problem, where i just felt lost, and then you click that button on top right, and they find out the error within 10 minutes or so.
+    Its quiet flexible and you will literally find how to program dynamically:P Programming dynamically for my non CS friends means that you will be coding like crazy, whenever you have time. To be clear, you wont code like usual person learns in class, 4 hours of class and then revise. NO!!!. My schedule was like, College -> Home->food-> http://www.codingninjas.in/ ->food->Coding Ninjas -> Mothers “Beta soja:P :D” -> sleep -> repeat(for(i=0;i<=3 months;i++) :P
+    Its fast and wont let you fell boared. The lectures are unlocked as you proceed but not too slow. Every assignment is bounded by a deadline, which you should not miss. ;) At least i did not(excect LCS problem, gave me nightmares) .
+
+Some advice though:
+
+    Before starting online course, do take a look at this article. It helped at lot. Getting The Most Out Of Your eLearning Course: 10 Study Tips For Online Learners - eLearning Industry .
+    Do something else like coding on codechef or Hackerrank simultaneously, the best resource being Geeks For Geeks, even if it means to skip a few deadlines. Don’t do this course just for the sake of completing it please! It will be waste of hard work and money on both sides.
+    Manage Time Wisely. You are the better judge of that. Things will get very rough if you won’t. A lot of people will say don’t see the solution until the 3rd, 4th or even the 5th try. Firstly, no one has that much time in college, you have to solve 100’s of problems and secondly “Majority end up being reluctant/leaving programming”. Choose wisely.
+
+I wish you luck for making the best decisions ahead. I am a student of DTU .
+
+Edit- If you would like to join the course, you can use (Coding Ninjas - Invite link)to get 1200 RS discount + 10–25% discount they give. It will help me too, do some more online courses.
+
+Thanks.
+
+%%
+
+
+I have enrolled for the C++ Foundation with Data Structures course taught by Ankush Singla Sir and Nidhi Agarwal Ma” am. I am writing this answer anonymously to give an unbiased opinion about the course. Though I have not completed this course. I will edit this answer as soon as I complete this course
+
+Before joining this course I was worried about online training but things have changed after this course. In this course, there are many things which I liked.
+
+1. Doubt resolving system is quite nice. I can message my doubts at any time. And depending on the availability of TA, that doubt gets solved. Personally, I have talked to a TA after 1 AM too.
+
+2. Weekly webinars were scheduled every week to ask doubts directly to the instructor. These webinars leave no doubt regarding any topic.
+
+3. Before joining this course I have tried to learn to code online through various websites like Youtube, Udemy etc but I was not too satisfied with the content and I had to look for other resources as well in order to understand that topic very well. But in this online course, it was taken care of. The video lectures that were provided were sufficient to solve the given assignment and till now I have not seen any video on youtube etc for that particular topic.
+
+4. During the course, there was more focus on problem-solving, how to approach a problem which makes this course different from others
+
+At last, I would just say that, joining this online course was one of the best decisions that I made.
+
+Just an advice before you join this online course. Make sure that you are dead serious about learning how to code. This course requires a good amount of time to complete all the given assignment before the deadline.
+
+If you have already enrolled for the course or planning to, you can use this link Coding Ninjas or use this referral code DYSQK to get a Rs.1000 discount after joining any online course. If you are getting an error page then retry the above link after login through your FB.
+
+%%
+
+
+
+Ds and Algos are very essential part of programming which need to be mastered at very basic level. Either you do them through C++ or Java doesn't matter that match. I would like to give a review of Coding Ninjas courses. I have done C++ as well as Machine Learning course, both offline.
+
+The depth of concepts which they deliver is just mind blowing and is adequate enough for a person to crack hardest of the problems.
+
+Coding ninjas every aspect, be it in terms of faculty, course structure, doubt sessions, codezen, they are amazing. They actually work on the programming fundamentals and logic building. Quality teaching is their priority.
+
+They have the best instructors with them as they are graduates from Stanford University, IITs, IIITs and have also work experience at companies like Facebook, Amazon, Times Internet, etc. What is more important is there work experience and their way of teaching which is exceptional. Mr. Ankush Singla, Ms. Manisha Khattar, Ms. Nidhi Agarwal, Mr. Parikh Jain are the best instructors you can get, exceptionally supportive and coordinating. They have in-depth knowledge of their subjects and they make sure the concept is grasped by each and every student.
+
+As far as the course structure is concerned, it is designed very firmly. They start from the very basics and go up to complex levels and cover all the important topics. Students were made to code a lot in class. Even brain teasers are there to toggle the minds. And the best part is their assignments and I must tell you, the confidence you get on their completion is immense.
+
+Now, there are both the online and offline courses available.
+
+If you want discount offers for the courses, then use code "GOADY" or click here http://bit.ly/cn_discounts
+
+CODEZEN (a special mention): They have this special tool where you can practise a lot of problems available. Also, you need to submit all your answers to it and so you can feel the competition. You will be given ranks in the leadership board so you can get to know what's your level.
+
+
+%%
+
+In the online versions of courses launched: C++ with Data Structures, Java with Data Structures and Interview Preparation Series, we have replicated the entire structure including course content, assignments, mentors and even the strategy to clear doubts which is most important and rarely witnessed in any online program.
+
+Talking about Inception (C++ with Data Structures) course, the curriculum created and followed, after-class assignments, doubts handling and mentors is same in both modes of learning (Online & offline), are same as well.
+
+We have introduced “adaptive learning”, where we make sure of clarity in every single topic, in students. Making your way to unlocking next topics come in line with your progress in assignments. We will make sure you do your assignments right till you could reach next level (topic).
+
+Weekly webinars for doubt clarifications and interaction on topics done and assignments. For further and personal interaction, Teacher Assistants assigned to each students with a better ratio of 10:1, than that of the classroom’s, 15:1.
+
+Regular TA sessions for complete help, motivation and guidance.
+
+So, on the bottomline both online and offline courses are at par with each other.
+Student experience is our first priority, and just like our classroom programs, we make sure of the same in our ONLINE classroom as well :)
+
+If you doubt yourself and your sincerity, don’t worry, we will make sure you complete the course diligently.
+
+%%
+
+
+I recently joined eminence/competitive programming course by coding ninjas and believe me, I have a lot to say. It was only due to the fact that there were no seats left in other offline courses. It turned out awesome.
+
+There are so many aspects to this:
+
+    Videos are on demand and course unlocks as and when you complete one topic first. It is fun
+    The leader board which constantly evaluates the submissions. That is where udemy fails!
+    Teaching Assistant Support which replies to your queries at night too.
+    First it will teach you how to learn things outside class. Consider this, once you do offline course you will definitely head towards ML or Data Science or even take YouTube courses on Photoshop, Illustrator, Dreamweaver. Try learn them now , you will realize how boring it gets after only a few hours because its free and painful :P Doing this course online will help set a platform from where you will be able to overcome a lot of frustration normally encountered while doing an online course. From there on you can even excel at online courses on Coursera while your other “Lucky offline class friend” will be intensely bored and frustrated and will search for some other classroom course.
+
+Some break through that really makes it stand apart are:
+
+    Topics in which almost everyone are pained by are covered very conveniently and with much clarification than normally available anywhere.
+    The topics covered are Number Theory, Advanced Recursion, Dynamic Programming, Bit Masking , Segment Tree, Fen-wick Tree, Tries, Graphs and many more.
+    The new hint videos they introduced are really awesome now. Earlier they were so frustrating, not getting answer and banging head on the laptop keypad!
+    Course is fast and slow paced at areas? Is that intentional?
+    Coding ninjas offline is also available for doubts.
+
+
+%%
+
+
+
+I have completed C++ with Data Structures Online Course from Coding Ninjas taught by Nidhi Agarwal ma’m and Ankush Singla sir.
+
+And Don’t take this answer , As i belong to the Side .
+
+And now ,I can See both the sides of the coin ,as i am currently enrolled in Offline program. So i can distinguish it Better .
+
+-> Before joining the course , i was in little doubt whether the Online Course will be as effective or not . But all my doubts shades up , when i started the course .
+
+    The content of the course was so effective and above my level of expectation . And the Structure of the course is So planned that it had the upper hand , compared to any other courses available online .
+    Codezen , the official ide for code submission and evaluation . And it Contains Enormous amount of Questions to practice on every Topic which makes you even far more comfortable with the code .
+    TA(Teaching Assistant) are available for your help whenever you stuck. Before the course , i was worried that whether i will be able to clear all my doubts online , But Teaching Assistant available will be helping you to write code and clear all your doubts .
+    Weekly webinars were available by the mentors to clear all your doubts during the course , which brings you in direct support by the mentor , which i have never seen in any of the online courses available.
+    The Best Part about the course is that the complete focus is on problem solving ,that makes you comfortable with coding. And makes you write code All alone. As i have gone through both the experiences , Online and Offline. I would say , The online course is equally beneficial as the offline course and makes you learn with the same intent.Hope you would Enjoy the online course , If not enrolled join the course soon .
+
+
+%%
+
+
+
+My cousin's friend are assistant at Coding ninjas and my cousin told me that it's the best platform to learn coding online because you are given a trainer for your doubts and various questions for practice. So, i consult my various friends who have done courses they all highly praised it and the faculty too. So, don't think so much just enroll and this is coupon code for 1000 rupees off
+
+Hi there ! Online courses of Coding Ninjas are superbly amazing. I am certified in two online courses from Coding Ninjas- Introduction to C++ and Data Structures with C++. I was a complete beginner when i got myself registered for the course. But the support and content taught by the teachers , teaching assistants and whole family of Coding Ninjas didn't even let me realise when i transformed from beginner to the ninja! They will give you each and every basic knowledge of the language and your smallest to smallest doubt is heartly welcomed and cleared.
+
+[8]
+
+It was a great learning experience for me taking the online C++ coaching from the institute. Both Nidhi ma’am and Ankush sir made it such an amazing learning experience. They explained all the concepts in detail and made the learning process so easy. During the course they regularly challenged my logical thinking with new kinds of problems. They also shared new insights and current developments in the field, something that is actually very useful during job interviews.
+
+One of the best things about the course is the detailed knowledge of Data Structures, a must-know for anyone looking forward to cracking a technical interview. You can boost your knowledge of data structures like Stack Queues, Binary Search Trees, Binary Tree, Heaps, Hashing, etc. By solving 250 - 300 different problems, I got great practice and developed good confidence in my skills. There are TAs who are toppers of their batch and they help clarify doubts through social media tools like audio/video chat and whatsapp chat.
+
+I think this kind of help was probably one of the best things about the course. All in all, it is a brilliant course and if you’re serious about gaining new knowledge and skills, this could be really good for you.
+
+%%
+
+
+I was enrolled in the C++ with data structures online course last year.
+ 
+ I really felt that this course is really good for beginners as it starts from the basic level and by the end you will be able to solve complex questions on your own (Even those dangerous trees and recurssion problems.) Moreover , the T.A. support they provide is quite helpful as it lets you clear your doubts right away. Also , course content is good and they provide weekly assignments , webinars and tests with good quality and quantity of problems. The cons of this course , I think would be that if you are not regular you will end up with a lot of work as there is a new assignment every week. So , just be regular with the assignments and clear your doubts if you really want to get the most of this course.
+ 
+Happy coding :)
+
+
+%%
+
+
+I had completed this course in dec 2017 it is an awesome course you will surely get to learn a lot alot from this course.I would suggest rather than taking classroom course take this online course it will have 24*7 TA support. One most interesting thing is you can rewatch the same concept if it is not clear to you where as in classroom course their classes are of long duration 4 to 5 hours continously so it sometimes becomes difficult to grasp all , and once the class is over i dont think in same way one can reexplain you so better go with online course instead of offline classroom course all the instructors are awesome.. One more interesting thing is on online course you can get rs 1000 off as well. 
+
+Follow these simple steps and get 1000 off
+
+    Logon to codingninjas site..
+
+2. Click on you facebook photo in the corner a drop down will open up.
+
+3. In dropdown click preferences
+
+4. On preferences page it will ask you for refferal code enter ORISP as code and purchase any online course you will get rs 1000 off on your first purchase .
+
+In case you had already purchased any course from them logon with another new facebook account or create one new just for study purpose and apply code and enjoy..
+
+%%
+
+
+
+My experience at Coding Ninjas was just AWESOME!!!
+
+I am currently pursuing B.Tech in Mathematics and Computing(MCE) from Delhi Technological University (DTU). I took up the C++ Inception course and was taught by Ms. Nidhi Agarwal. She is a very experienced teacher and a very helpful person. She is always ready to solve your doubts and keeps explaining the thing till you understand it. The whole faculty at Coding Ninjas is very passionate, innovative and well- experienced. Ankush sir is the best. He is a great motivator. Although I didn’t get a chance to study from him (since he was not teaching the c++ batch at that time ) but hearing about him from his students just makes me more eager of being taught by him someday.
+
+In addition to a superb faculty, the infrastructure at Coding Ninjas is also fabulous. It offers you the perfect condition for studying and doing coding since they have customised rooms based on themes like python, apple, git, android, etc. Here are some pictures:
+
+For me it was like 10/10.
+
+
+I am a student at DTU , Software Engineering . I have been an average coder for 2 years but still i was not able to crack the companies. I have always missed simple concepts like Pointers or Recursion etc. After sitting in almost 30–35 companies I had no luck in getting an on campus internship in my third year. Finally I got an internship off campus as a Backend Developer. But getting an internship was not the goal. WE all crave for better placements.
+I decided not to join my Internship , instead joined Coding Ninjas. I have been taught by Ankush Sir. He is amazing , and his teaching is very brilliant.
+Many of my basic concepts got cleared. He has a very good approach towards the question and he delivers his fullest to the students. You learn multiple approaches towards solving a particular question. With the environment of students out there you get to know the multiple ways to think of a solution.
+
+So now the question is all the resources and materials are available on the net , why to join such a course. ?
+Well i can give you a reason for that. If you are a person like me who lacks concentration quite often or get distracted , or cant keep up with the pace and requirement of the current challenging and dynamic environment and lastly if you seriously want to bag a good package job. you must defenitely join this course.
+
+Advantages of this courses are :
+
+Your basic concepts will get cleared.
+Problem solving ability and reasoning skills will improve.
+Practice of more than 200 questions in the span of the course
+Confidence to solve any new question with better approach
+Tests help you in building your confidence
+Online assessment of your codes
+Not jut Data Structures , but OOPS and DBMS will also be revised.
+Mock Sessions which will surely help you to overcome your hesitation , nervousness and worries while dealing with any company
+
+Suggestion : If you are looking to join this course make sure you join this immediately after the second year of your engineering. According to me this is the best time to join this course.
+
+Note : I suggest you to join this course only if you are dedicated to take the advantage of the faculty and this course. Only if you can dedicate enough time to complete all the assignments and tests and all the questions in the class. Because
+
+Practice is the Key.
+
+
+%%
+
+
+Hi!
+
+It’s been a long time since I’ve been finding a place to share on my journey on picking up coding and this question would be the best place as 99% of this journey has been with Ankush Singla and Kannu Mittal , who are also the founders of Coding Ninjas (company) .
+
+Let’s build it up from the very beginning.
+
+Entering a New Field
+
+It was exactly 2.5 years ago, mid of 2014, I let go of my Digital Marketing job because all the time I felt inclined towards building the product which people use instead of making strategies for someone else’s products. Though that field also constantly requires new ideas, but there’s something different and more amazing about building a product. Something I feel more connected to.
+
+To get into a Software Engineering role and get some good experience, gave around 15 interviews at startups and big companies, reached the final round in 4 or 5 of them, got rejected in all (even with the best marks and an innovative project on my resume) and finally, after some research and consulting people around me came to a conclusion out that it would be best for me to go for higher education. This was also because of the places where I applied gave more importance to the institute where I studied or that little duration of interviews, rather than my performance of 4 years at my undergrad. A couple of weeks later, here I was preparing for GRE and TOEFL, hoping or rather, wanting to get into one of the best universities in the world for an MS in Computer Science. And this was despite the fact that my specialisation in Engineering (Bachelor’s) was Electronics and Communication (despite my peers telling me repeatedly to go for Computer Science because from a young age, I used to and even now, with a lot of interest, solve a lot of day to day computer problems at home, for my neighbours, cousins and yes at my office too!)
+
+I Need Some Skills!
+
+During all of this, I was desperate to add a skill using which I could make something new and useful. Thinking start my own thing in the future with a revolutionary product. I got to know about the courses form my brother and also that the teachers are some guys from Facebook & Amazon. It caught my attention but was a little skeptical as I was against any sort of tuition or coaching (a very strong believer in learning on my own, completely). Still I applied on his recommendation and also as I thought this would add up to my skills and help me with my MS.
+
+Alright, this is getting boring, so, fast forward, I got an admission into the second batch of Programming in Java taught by Ankush Singla after a long conversation on phone with Kannu Mittal. Oh, and I was the one asking all the questions in thie conversation as I wanted to be sure about the genuineness, yes I was convinced to some extent. Missed the first class, due to my GRE being the next day, but made sure I completed the flow charts assignment. I was still in doubt, whether I should have joined the course.
+
+Back To School, The Autumn Of 2014
+
+Then, my first class with real Programming people (I say this because again I was considered a pro at my school and college with anything that dealt with computers be it programming or troubleshooting, I believed so too) and here was Ankush Sir, a sharp mind with the experience of working along some of the best minds in the world and students from the best universities of the country, mostly with a Computer Science background, with much deeper knowledge of programming than me. Most importantly, they were in their college and I completed my Bachelor’s a year ago. A lot of hesitation built up and I knew I had to work harder than anyone present in the class. But we soon saw that almost everyone was at the same level for the teacher, irrespective of their branch. This class was totally the opposite of what usually happens in a teacher-student interaction in our schools and colleges. It was like someone ...
+(more)
+ 
+
+%%
+
+
+Keeping it brief, I would like to say that Coding Ninjas is the best institute where we are taught programming and not the language, unlike other institutes. I took up a course in Java and within a few classes I was able to see the difference in myself. These guys work upon the the logical skills which is the crux skill set required for any programmer. I'll jot down some key features that will give a clear picture of the above:
+
+1. Many riddles and brain teasers are given during the course to the student to increase their logical aptitude and these questions are actually asked in interviews of big companies like Google,Amazon, etc
+
+2. Main emphasis is given to Data Structure which as everyone knows is the HOT topic to crack any programming interview ( half of the course was based on Data Structure only)
+
+3. Assignment on each and every topic are given after each class consisting of a set of High Order Thinking Question.Practising them will definitely give you a good command over programming.
+
+4. Regular doubt classes are held which help one to clear all the queries from the faculty itself
+
+If you want to learn programming then Coding Ninjas is the place for you as, if you dont know how to code in one language you can code in any other language given to you by learning it and it takes a few hours to learn new language.
+
+
+%%
+
+My experience at coding ninja was quite overwhelming in many aspects. So, i am doing ECE from NSIT and currently in third year . I started with programming only 3 months ago and was really not sure whether i will choose it as my career or not.I used to solve 2–3 questions in every Codechef long challenge but could never complete the fourth(NEVER). I had little to no knowledge of cool Data structures that makes life so easy(trust me they do!) . A friend of mine told me about Ninjas and i got enrolled in it just 2 months ago. i used to travel 15–16 kms every alternate day and now at the end of the course i feel it was all worth it.
+
+I feel more confident now and has build that confidence to tackle the “tough” coding problems. My instructor at Coding ninja (Maneesha mam) really knows the subject well . She arranged as many doubt sessions as she could and all other TA’s were there for the help as well.
+
+They have included new courses in their armory and i would love to pursue some of them in the near future.
+
+P.S its nothing like spoon feeding in there . They make you code yourself . you just have to code their there is no other option and with that you learn for sure.
+
+
+%%
+
+
+I have been taught “Java Foundation Course “ & “Android App Development” by the current faculty of Coding Ninjas and trust me you’ll get to know what programming is only after taking those courses under the guidance of Ankush Bhaiya , Kannu Bhaiya and the entire faculty of CODING NINJAS .
+
+In the Foundation Courses they don’t just taught you a programming language but instead they build art of problem solving which is most important than anything else . This will help you to tackle any sort of programming /logical/real life problems which will be given to you in an interview or any other programming contests .
+
+In the Android App development , They will build small apps in front of us and help us to build our logical thinking and will help us to come out with new ideas . In the end , We will be given to build an entire app (live project ) . Their main focus is on us to come up with new ideas for apps and at the end of course we will feel that we could really build some good APP’s ourselves . This is a perfect course for those who want to learn Android App Development .
+
+Before Joining Coding Ninjas i have not much interest in programming and literally i don’t know “C” of “Coding” but after these courses i find myself enjoying and loving programming .
+
+Also ,There will be regular tests/assignments on the Online Tool / Judge which will make your thinking skills strong since your code will be judged to cover each n every corner cases..
+
+To feel the same I would recommend everyone who is seeing himself/herself as a programmer in the near future to join CODING NINJAS as soon as possible. :)
+
+
+%%
+
+
+Hi!
+
+It’s been a long time since I’ve been finding a place to share on my journey on picking up coding and this question would be the best place as 99% of this journey has been with Ankush Singla and Kannu Mittal , who are also the founders of Coding Ninjas (company) .
+
+Let’s build it up from the very beginning.
+
+Entering a New Field
+
+It was exactly 2.5 years ago, mid of 2014, I let go of my Digital Marketing job because all the time I felt inclined towards building the product which people use instead of making strategies for someone else’s products. Though that field also constantly requires new ideas, but there’s something different and more amazing about building a product. Something I feel more connected to.
+
+To get into a Software Engineering role and get some good experience, gave around 15 interviews at startups and big companies, reached the final round in 4 or 5 of them, got rejected in all (even with the best marks and an innovative project on my resume) and finally, after some research and consulting people around me came to a conclusion out that it would be best for me to go for higher education. This was also because of the places where I applied gave more importance to the institute where I studied or that little duration of interviews, rather than my performance of 4 years at my undergrad. A couple of weeks later, here I was preparing for GRE and TOEFL, hoping or rather, wanting to get into one of the best universities in the world for an MS in Computer Science. And this was despite the fact that my specialisation in Engineering (Bachelor’s) was Electronics and Communication (despite my peers telling me repeatedly to go for Computer Science because from a young age, I used to and even now, with a lot of interest, solve a lot of day to day computer problems at home, for my neighbours, cousins and yes at my office too!)
+
+I Need Some Skills!
+
+During all of this, I was desperate to add a skill using which I could make something new and useful. Thinking start my own thing in the future with a revolutionary product. I got to know about the courses form my brother and also that the teachers are some guys from Facebook & Amazon. It caught my attention but was a little skeptical as I was against any sort of tuition or coaching (a very strong believer in learning on my own, completely). Still I applied on his recommendation and also as I thought this would add up to my skills and help me with my MS.
+
+Alright, this is getting boring, so, fast forward, I got an admission into the second batch of Programming in Java taught by Ankush Singla after a long conversation on phone with Kannu Mittal. Oh, and I was the one asking all the questions in thie conversation as I wanted to be sure about the genuineness, yes I was convinced to some extent. Missed the first class, due to my GRE being the next day, but made sure I completed the flow charts assignment. I was still in doubt, whether I should have joined the course.
+
+Back To School, The Autumn Of 2014
+
+Then, my first class with real Programming people (I say this because again I was considered a pro at my school and college with anything that dealt with computers be it programming or troubleshooting, I believed so too) and here was Ankush Sir, a sharp mind with the experience of working along some of the best minds in the world and students from the best universities of the country, mostly with a Computer Science background, with much deeper knowledge of programming than me. Most importantly, they were in their college and I completed my Bachelor’s a year ago. A lot of hesitation built up and I knew I had to work harder than anyone present in the class. But we soon saw that almost everyone was at the same level for the teacher, irrespective of their branch. This class was totally the opposite of what usually happens in a teacher-student interaction in our schools and colleges. It was like someone ...
+
+
+%%
+
+
+
+Having done 2 offline courses myself (JAVA and WEB D) and having a brother who has done 3 online courses himself, I think I am completely eligible to review on Coding Ninjas.
+
+SHORT ANSWER: It’s just awesome. I would recommend you to don’t waste your time finding reviews or motivation on this platform and instantly enrol yourself in any foundation course if you are a beginner or some advance course like ML or Web D if you have your fundamentals clear and your DS is strong. Just visit https://codingninjas.in/app/invi... and get Rs.1000 off on any online course and help me get some reward too.. :p
+
+LONG ANSWER:
+
+Let’s go generic first and let me explain you what advantages you get by joining any course at coding ninjas:
+
+1.One of the best and most qualified faculty: What impresses me most about coding ninjas is it’s faculty. Trust me, they really know the subjects well and know what they are teaching. All faculty members are well experienced in their field and are alumni’s of some of the best universities in the country or across the world..
+
+2.Super competitive environment: Having students from the best universities in and around Delhi with everyone racing for the top 10 rank on the leaderboard; what else can you expect. :p
+
+3.Brilliant TA support: Teaching assistants or TA’s are defined as those super humans who can solve your those errors in seconds which you can’t even rectify in hours. :p They are always ready to help you and such a huge source of motivation. :D
+
+4.Well designed course structure: The way they take you from the basics to the advanced level is quiet amazing. Everything taught has an important attached to it. Well structured assignments and the level of questions just make you fall in love with coding.
+
+Some advice though:
+
+    For interview preparation that most of the students do, go for Geeks For Geeks along with Coding Ninjas course. This course is not sufficient to crack coding interviews alone, but will save many months of wandering and procastination.
+    Make an account on Code Chef and Hackerrank. Try what suits you. Some like code chef and others like hackerrank. I think Code Chef is the best out there no matter it’s complexity.
+    Start now, start slow, there is no need to rush. But consistency is very important and do it for a year. Even if trying new things
+
+I wish you luck for making the best decisions ahead.
+
+You can get Rs 1000-1200 off on all + the extra 10–40% discount by here >> (https://codingninjas.in/app/invi...) or using my referral code QLYHK. It will help me too do some more courses!
+
+
+I am a student at DTU . I used to be an average coder for 2 years but still i was not able to crack the companies. I have always missed simple concepts and the dreaded mathematics used in Machine Learning.
+
+The courses on Udacity cost too much for me to afford, hence I took Coding Ninjas offline only to find there were no seats left.Advantages of this courses are :
+
+Your basic concepts will get cleared.
+
+    Problem solving ability and reasoning skills will thrive.Practice of more than 10 projects in the span of the course, decision trees, naive bayes and the dreaded math of neural network. It was not easy, but it was fun.
+    Confidence to write any algorithm in Machine Learning from scratch. You will be able to write a whole set of projects on resume.
+    The projects are very amazing. Above all, they are practical and least boring. Maths intensive concepts are solved in class, sir takes care to do the heavy lifting for us.
+    Online assessment of your codes is very fast and cool. TA support is very amazing and satisfying, one can’t beat that on Udemy. Udacity offers same quality, their courses are 6 months long and very very expensive.
+    Not just Python, you learn Data visualization, numpy, pandas, Intro to Artificial Intelligence, Sklearn, Google’s Tensorflow etc. I was also pleasanty surprised by the content.
+
+Some Suggestion Though:
+
+    If you are looking to join this course make sure you join this before the third year of your engineering. According to me this is the best time to join this course and explore.
+    Before starting online course, do take a look at this article. It helped at lot. Getting The Most Out Of Your eLearning Course: 10 Study Tips For Online Learners - eLearning Industry .
+    Do something else like coding on “Kaggle” (Your Home for Data Science) and read articles on “Medium” or “Analytics Vidhya”(Analytics Community | Analytics Discussions | Big Data Discussion) simultaneously, even if it means to skip a few deadlines. Don’t do this course just for the sake of completing it please! It will be waste of hard work and money on both sides.
+
+I wish you luck for making the best decisions ahead. I am a student of DTU.
+
+
+%%
+
+
+I HAD AN OUTSTANDING EXPERIENCE AT CODING NINJAS .
+
+I am a 2nd year student in MAIT. I joined Coding Ninjas for C++ Data Structures & Algos course in the summer break after 1st year under the mentorship of Miss Manisha Khattar assisted by two teaching assistants.
+
+The course started with the basics of C++ and ended with complicated Data Structures which after the completion of course didn't remain complicated.
+
+-> The course mentor Manisha Mam is an experienced faculty ,infact all the faculty here are experienced and possess good knowledge of respective subjects and possess amazing art of teaching. She was very helpful throughout the course and even after the course she is always ready to help you with any doubts. She never hurried to complete the course , we moved to the next topic only after being crystal clear with the current topic.
+
+-> Apart from the mentor , there are two teaching assistants to help you out with your doubts.Regular Doubt Classes are held. You also get to interact and make contacts with like minded people.
+
+-> The course content and structure is quite apt with enough practice assignments and lectures.
+
+-> Learning a new language is easy if you already know some other language already,and even if you are a beginner syntactical learning of language is not that tough. What is more important is Logic Building and here in Coding Ninjas, Logical skills are developed at par. Brain Teasers go along with the course.And even during solving coding problems, they don't do spoon feeding ,and give you a chance to use your brains and help if you aren't able to solve it.
+
+-> The interface of CodeZen which is the platform where Ninjas code is similar to competitive Coding sites and helps in being comfortable with writing & submitting code on in the competitive scenario.
+
+-> The infrastructure is quite good.
+
+-> Last but not the least as a token of motivation, goodies are given to the top 10 performers and discount too for the next course to top 5 performers.
+
+Overall I would rate 5 stars to Coding Ninjas. I am happy that I decided to join this place and would surely recommend anybody with a zeal to become a good coder to do a course here . It is worth all the money,time & efforts.
+
+I am a third year student at Nsit Delhi,Mechanical Engineering.
+
+I took up the C++ Inception course at CODING NINJAS and was taught by Manisha Khattar Mam. She is a very experienced teacher and a very helpful person. She is always ready to solve your doubts and keeps explaining the thing till you understand it.
+
+Apart from that the staff of Coding Ninjas is very cooperative and helpful.They helped a lot in arranging backup classes.
+
+In the Foundation Courses they don’t just taught you a programming language but instead they build art of problem solving which is more important than anything else ..
+
+The TA’s support you get is just AWESOME.They are very helpful in clearing the doubts whenever you ask them.
+
+So, the Advantages of this course by coding ninjas are :
+
+    Your basic concepts will get cleared.
+    Many riddles and brain teasers are given during the course to the student so that their Problem solving ability and reasoning skills will improve.
+    Practice of more than 200 questions in the span of the course And you can practice a lot more on their coding platform - Codezen.
+    Confidence to solve any new question with better approach
+    Tests help you in building your confidence
+    Online assessment of your codes
+    Not jut Data Structures , but OOPS Concepts will also be revised.
+    Mock Sessions which will surely help you to overcome your hesitation , nervousness and worries while dealing with any company.
+
+I was taught by Manisha Ma’am who would make the concepts very clear by making us understand through different methods of solving the same problem. She would explain the things to us many times over if I asked her.
+
+It is really upto you how much hardwork and dedication you are willing to put in this learning process, but Coding Ninjas provides you probably the best possible environment to nurture your skills.
+
+If you want to be comfortable with Data Structures and Algorithms, this is the best place to be.
+
+and Yeah i forgot to mention one more thing the infrastructure is just awesome with rooms based on language themes..
+
+I simply had a awesome experience here at CODING NINJAS…
+
+
+%%
+
+
+Studying in a tier 1 or tier 2 college doesn't matter, all a company looks for in a developer is his/her skills and the ability to grasp the same. And for that, Coding Ninjas is the best way. They have the best faculty for learning programming and development! They have previously worked in big shot companies like Facebook, Amazon, Zillious, etc and been in many successful start ups.
+
+The faculty mainly focuses on what is required or expected by a Software Developer in in Top Companies and blooming Start-ups. Problem analysis, aptitude development and problem execution are the key features being taught here. The output is an inculcation of top set of skills which lets an individual triumph in the IT sector!
+
+And speaking of the faculty, the soul of Coding Ninjas. They ACTUALLY care if the students understand the concepts and make sure everyone completes the assignments. I have been taught Java by Ms. Manisha Khattar and remember her skipping lunch to solve a problem I couldn't understand after my class (not exaggerating).
+
+All in all, I would strongly suggest all IP students (all streams) to break the shackles of the 3.5 lac packages and actually do something worthwhile during college.
+
+%%
+
+
+
+I studied C++ from this faculty. I joined it after giving my jee exam  just to give it a try and believe my it was worth a short.
+
+the place is filled with coding enthusiasts and coding  lovers thus provideing the required environment and inspiration the teachers. Kannu Bhaiya ,ankush Bhaiya,Manisha maam are very helpful, knowledgeable and  dedicated and masters of their fields with  experience in dream companies like Facebook,Amazon etc.
+      
+All the concepts are covered and discussed with  great dedication& teachers are very good at teaching. They not only teach the concepts but also art of solving questions.
+Every type of question is covered here  through discussion ,assignment and test
+and
+doubt sessions are conducted on a regular basis by ex students and by teachers themselves for doubts and discussing different and better ways to do questions. Mostly all the concepts are revised regularly using the questions.
+
+
+All together at the end I can say that it is a must join Institute for those who really want to learn something whether it C++, java or android. It's the correct place. It's just like hogwards " help is always provided to those here who ask for it"..
+
+%%
+
+
+Hi everyone!
+
+I highly recommend everyone who are not so confident about programming to join the courses offered by Coding Ninjas. I took the Inception Course the language being C++. In the first year in my college, I was not very confident in programming. But after completing the course, I have grown in confidence, largely thanks to Coding Ninjas and Nidhi Ma’am. All this can be attributed to the excellent environment that is there in the classroom at Coding Ninjas. Here are a few things that helped me:
+
+    The daily assignments given at the end of class were very helpful as I got practice while I was at home also.
+    The regular tests that were conducted by Coding Ninjas were of good standard so it pushed me to strive for more practice.
+    The teaching assistants were of my age so they understood my problems very well which they would also have encountered in the beginning.
+
+I was taught by Nidhi Ma’am who would make the concepts very clear by making us understand through different methods of solving the same problem. She would explain the things to us many times over if I asked her.
+
+If you want to be comfortable with Data Structures and Algorithms, this is the best place to be.
+
+
+I have been taught Java Programming Course And Android Development Course from Ankush Bhaiya and I could say it was a life changing experience for me. After my first year i didn’t knew the ‘C’ of ‘CODING’ . But after going through the Java Course I started finding interest in programming and as the course goes on it had become my passion. The way of teaching is literally superb and the course content is amazing due to which I joined the second course (Android). That course was also amazing. You would be making small apps during the course due to which you just become FAN of coding and literally feel the magic of it. Bhaiyaas would also boost your confidence durng the course and you will find friendly atmosphere everywhere. It was an amazing experience for me. To feel the same I would recommend everyone who is seeing himself/herself as a programmer in the near future to join CODING NINJAS as soon as possible. :)
+
+%%
+
+
+I have been under the guidance of the current coding ninjas team since last 1 year. They have guided me throughout my journey in programming. They are really passionate about their work. They'll make you fall in love with programing if you are eager to learn, its the best team to learn from. The faculty is very experienced, coming from big companies like facebook, amazon, etc.
+
+The course content has been set very intelligently so that a beginner can also become very good in programming. Regular assignments are given after each topic (almost after each class). Doubt sessions are held regularly.
+
+Their main emphasis is on making you practically code in classes after teaching a particular topic, rather than only teaching theoretical aspects. One of the best things about coding ninjas is that they are always available to entertain your doubts and they encourage you to put up more of doubts so that you have a clear understanding of topics. Its more of a friend to friend relationship rather than a teacher-student relationship, so you never hesitate to ask your doubts. I would recommend coding ninjas to anyone who is eager to learn programming :)
+
+
+%%
+
+My experience at Coding Ninjas was simply fantastic!!
+
+I am a final year student at MAIT, New Delhi in Information Technology.
+
+I studied Data Structures using Java and Android App Development courses under Ankush Bhaiya and the experience was really awesome. He has a very good approach towards the question and he delivers his fullest to the students. You learn multiple approaches towards solving a particular question. With the environment of students out there you get to know the multiple ways to think of a solution. Ankush Bhaiya gives his whole-hearted effort in making you understand everything from basic concepts to the complex things.
+
+Not to forget the efforts of the TAs Rohan and Arpit sir, who really helped me whenever I needed. Actually the whole faculty is very helpful and amazing.
+
+Coding Ninjas provides you with the best environment to develop your skills as a programmer and developer. It really helps in opening a hell lot of opportunities.
+
+It is really upto you how much hardwork and dedication you are willing to put in this learning process, but Coding Ninjas provides you probably the best possible environment to nurture your skills.
+
+My problem solving skills improved greatly, my approach towards programming has become much better and i have become really confident in my abilities as a developer and programmer.
+
+A course at Coding Ninjas is really going to be one of the best decisions of your life.
+
+%%
+
+
+
+I have been taught by the current faculty of Coding Ninjas and all I can say is that they are just too good. Having experience in companies like Facebook,Amazon etc they taught us what is expected out of us to be a part of these companies. Not only this, the Advanced courses cover each concept in detail. Also, by the end of these courses, you have your own project that you have built from scratch. No matter how basic the doubt is, the faculty doesn't give up until it has been cleared. By the end of an advanced course you are good to make your own websites,android apps, etc.
+
+When I started, I was not at all confident and lacked knowledge , and by the end of the course, under the guidance of Ankush Bhaiya, I have great confidence in me and my programming skills. I presently have 2 job offers and will be joining Expedia as a Software Developer by July,2016.
+
+I would recommend Coding Ninjas to anyone who loves to code or wants to learn to code or wants  a confidence boost in his/her programming skills. It's the perfect platform to make you competent to face the world out there.
+
+%%
+
+
+
+
+As you may have seen other reviews, To make it clear again I would say this is the best programming institute for development, programming, and algorithms. Trust me, Before joining Coding Ninjas I used to be an ordinary dreamer of being an expert, now there is somewhat superiority complex which kind of makes me feel good. I have observed my growth where I used to take advice from other people and now the situation is exactly opposite, I reached that stage where I can do something good on my own.
+
+What makes this better than the rest of ordinary?
+
+Firstly, the faculty present here cannot be found anywhere. I learned Android and Java under the supervision of Mr. Ankush Singla. You can think him off as an ideal(perfect coder) teacher in this field. He helps the student in building concept and logic which are essential for any problem-solving. His teaching methods are excellent and the best part I like about him is his debugging analysis, With a glance, he can quickly find bugs in your program. With the first class, you yourself would realize all things written here true. He always remained my great inspiration and just keep working hard with assignments and logical thinking part. Being present in the fellowship of such great teachers and other good students might bring something good out of you.
+
+Secondly, If you are reading this Don't think much just go and find it yourself. Coding is truly fun!
+
+Happy Coding :)
+
+
+%%
+
+
+CODING NINJAS comprises of some of the best coding faculty in Delhi. The faculty are all highly qualified professionals.
+
+I joined the Inception (C++) morning (weekend) batch, and was tutored by none other than Nidhi Agarwal ma’am herself. It was my third semester and things had been going quite slow in college with regards to programming. I wanted to polish my skills and also get a better understanding of Data Structures.
+
+Not only did they help me clear all my doubts but also taught me different approaches to the same problem and how to choose a particular approach for faster/more efficient results.
+
+Also they give regular brain teasers in their lectures and sometimes they can be quite challenging. One such brain teaser, the card guessing problem, even featured in this year’s RMO (Regional Mathematics Olympiad) exam as the last question!
+
+All in all, the place is a one stop home for coders and programming lovers. Also they teach you how to give programming interviews and improve your chances of a better job.
+
+“THINK TWICE, CODE ONCE!”
+
+
+%%
+
+
+It is my second time that I'm getting enrolled with the teachers at coding ninjas. The first time I did the foundation course of C++ and I found it very good . Earlier I was new to any coding language but after I did the foundation course of C++ I was quite confident about the knowledge of data structures and algorithms used in C++. Since I had a good experience at coding ninjas for the first time I decided to join the Interview Preparation Course. This time as well I am satisfied with the course material, assignments and the quality of teaching at coding ninjas. The new thing which I found very amazing is the online tool submission. We can now check whether the solution of the given problem is correct or not, if we're stuck in some test cases we can can download the test case file and proceed to the correct solution to the problem. The tool for online submission introduced at coding ninjas is very awesome as well as the teachers of coding ninjas especially Ankush Singla sir. Looking all aspects in mind coding ninjas is an ideal institute to learn programming languages like C++, java or android courses. Learning made easy with fun @Coding Ninjas !!
+788 Views · View Upvoters
+ 
+For all the students interested in a career in Computer Science, it is essential to get the basics of programming right. You might find plethora of institutes claiming to teach you programming, but many of them don't focus on the very essential need - Concept building.
+
+This is one of the many reasons why you should join Coding Ninjas. My experience with Coding Ninjas has been amazing! I did the Java programming course under Ankush Singla sir, and believe me when I say he's one of the best teachers you can get to strengthen your programming skills. The course material is extensive and engaging and makes sure you understand important concepts. (eg. Data structures). For solving doubts, you can always go upto Ankush sir and he will be there to help you. The entire faculty is well experienced and amazing.
+
+The concepts you'll learn here, and the material provided will be helpful throughout your programming journey.
+
+%%
+
+
+As we all know there is a huge gap between the engineering college education and technical skills required in the real world , so most of us are in a dire need to bridge this gap . Coding Ninjas is the perfect place to make yourself logically and technically strong .
+
+My personal experience with the Coding Ninjas team has been an awesome and unforgettable one . Here are some of the pros according to me if you join this place :
+
+You learn from alumni of IITs, IIITs and ex-employees of Facebook, Amazon like Ankush sir , Manisha ma’am ,etc who would help you out clear any sort of doubts regarding your course or career. I personally seek their help till now ( its been an year since I completed my Java course with them ).
+You have TAs ( teaching assistants) along with Coding Instructor in your batch to make ur doubt clearing a smoother process.
+You practice a lot through well constructed assignments and class exercises which increase your confidence and clarity in the technical concepts manifolds.
+
+You are taught how to approach a problem and apply concepts to tackle it, rather than learning the concepts or ‘aisa hi hota hai’ attitude.
+
+If you want to make a positive difference to your problem solving abilities and increase your level in the technical concepts and skills for the software industry there can be no better place than Coding Ninjas.
+
+
+%%
+
+
+I was nearing the end of my second year in college and was struggling to find where my interests lie. I had done basic coding but never was deeply committed to it. Since I was an Electronics student, coding never took prime focus in my life. Somehow I found about Coding Ninjas and enrolled in its JAVA course. Best decision I ever made.
+
+From the first day in the class to the last, only one thing took paramount importance: LOGIC. This was basic tenet behind the teaching of this institute. From basic questions to new data structures and algorithms, everything was taught from a distinct logical standpoint, so that the topics at hand never seemed rote or superfluous.
+
+It is also the way everything is taught which makes the institute stand apart. The course was taught to us by Maneesha Ma’am, and a huge credit to the success of this course goes to her. Few key standout features of Coding Ninjas:
+
+1. An emphasis on brain teasers and logical questions to improve critical thinking ability of students.
+
+2. An unbelievable amount of care and attention in given to each and individual student by the teacher as well as the TAs. They will go to incredible lengths to alleviate your doubts and concerns. Many complex problems will be explained in many ways: analytically, visually etc.
+
+3. Huge amount of doubt classes for students to clear doubts about topics as well as previous assignments.
+
+4. Extensive amount of assignments given for every topic to cover all the aspects of the said topic. The assignments are laid out in a ‘ladder-type’ difficulty to reduce the difficulty curve for students. For students craving extra difficulty, additional questions of higher complexity are provided to them. Trust me, you’ll never run out of questions to practice.
+
+5. Much required emphasis given to understanding the importance of different data structures and their implementation, as well as critical algorithms that every programmer should have at their disposal.
+
+It is due to their incredible effort that I realized that programming is where both my aptitude as well as interests lie. Extremely grateful to Coding Ninjas.
+
+Cheers! :)
+
+%%
+
+
+Hi everyone
+
+I did Java(Foundation and Data Structures) Course under Ankush Sir. My experience with Coding ninjas has been amazing. Before joining the course i had a little knowledge of C++ which was taught to us in school. So i just knew the basic of programming.
+
+I had heard of stuffs like stack,queue,linked list in school but i had no idea what they are and how to implement them . I was actually scared of data structures. So i decided to join the course.
+
+Starting from the first class we were given few brain teasers and the focus was to think more and more. Assignments were given to us at codezen which is an awesome tool for us to submit the solution online and check our result. Coming to the faculty , all of them are great . I consider myself lucky as our mentor was Ankush Sir. He is an excellent teacher. Starting classes were good. It was quiet fun to solve question based on arrays ans strings but things changed when recursion started .It really screwed me and i thaught that this is it. Topics like recursion , linkedlist, trees and DP requires a lot of practice. So i started practising more and more .Ankush sir and the TAs were always there to help us. Through out the course i solved about 160 to 180 problems. And now i am quiet comfortable at converting the logic into code and solving problems.
+
+Thanks to Ankush sir and the team of coding ninjas.
+
+
+%%
+
+
+I have done two courses with coding ninjas:
+
+    CPP inception course in the year 2017
+    Android app development course in the year 2018. I was taught CPP by Ms Manisha Khattar and Android by Rohan Sir. I have also worked as a Teaching Assistant for CPP online batch too. My journey in coding ninjas has been a magical one. I have always loved coding but couldn’t get much exposure to data structures and the variety of questions when I was in school but in coding ninjas, I was taught in a very holistic environment with the most helpful and ready to teach ninja teachers. Indeed they all are teachers by choice and not by chance and so they put their 100% to make you understand every single thing and make sure that you are left with no question, doubts and queries. They work hard not only to make things clear to us, but also to keep us motivated to learn, to be inquisitive and to be attentive enough to grasp each and everything possible. Indeed this is the best place for learners and one thing that I will assure you is that, you will have a batch of students comprising of amazing minds, good coders and some experienced people sitting next to you and studying but for the mentor teaching you there in the class, all of you are treated as equals and they teach you with the best of their abilities without any preconceived notion! I was lucky to be a part of this coding hub and one who gets here, can never forget the incredible experience of discipline and constant learning that you will surely acquire! All The Best! I hope it helps
+
+
+%%
+
+
+
+I had taken the first course in Java Foundation and Data Structures two years back,after which I continued on to do Android Development and Web Development. Since then I am involved with the faculty of Coding Ninjas on various projects related to making android apps and web development,out of which some are live projects right now.
+
+The faculty of Coding Ninjas has a unique touch to the teaching style,they focus on problem solving (which is what is required in the industry) and provide you with assignments on the same.They make you practice some questions in the class and they’ll make sure you do them no matter how much time you take.
+
+I once sat till 8 pm in a class from 3–6 because I had to solve a difficult problem before leaving, and Bhaiya (our teacher) sat along just to make sure i do it.
+
+The faculty of Coding Ninjas have big names on their CV such as Stanford,Facebook,Amazon but what’s special about them is that they’ll connect with each student and try to guide them along towards the solution,and they won’t give up on you :)
+
+%%
+
+
+I took the course Data Structures and Object Oriented Programming using Java which was taught by Ankush sir. His experience in the programming, his style of teaching and concepts are second to none. I learned and acquired more knowledge about coding than my three years in college.
+
+Most of CS/IT students in various Engineering institutes lack the logical and technical skills required by a good programmer and thus try to run away from coding because they don’t know how to approach a problem , but one course at coding ninjas and all your fear about coding vanishes.
+
+At coding Ninjas student’s concept are built and are taught how to solve or approach a problem.
+
+People often mistake the shortest code (in number of lines) to be the best and try to mug up code but here you’ll come to know that number of lines doesn’t matter but the logic behind your code is the only thing that matters.Once you understand the logic , you’ll never have to mug up a single piece of code. And to learn that Coding Ninjas is the best place.
+
+Coding Ninjas has single handedly revolutionized the way programming is taught. The numerous assignments , programming various data structures and help from the teachers of coding ninjas will change the way you look at a programming problem.
+
+“Think twice ,code once”
+
+%%
+
+
+
+I am currently a 2nd year student of IIT(ISM) ,dhanbad pursuing Btech in cse,to be the very frank, I didn't even have the basic knowledge of C++ ,then I decided to join coding ninjas after taking reviews from the seniors .I was also a little bit afraid that they will start from the basic or not but finally I enrolled in the course of December fast track C++ course( Data structure) and my mentor was Ankush sir. My experience was amazing through out the course .He covered each and every topic in the most simplest way and the good thing which I liked the most is that he will developed a sense of thinking among you so that u will able to think that what should be the better way to solve any problem.Previously,i didn’t even bother about optimized solution but ankush sir always told that think before code and go for optimized solution( he discussed every question and tried to find the most optimized solution) which helps us a lot during competitive coding. And specially the assignment was very well designed which covered each and every concept, and also teaching assistant will be available in the class to help you out from the doubt's.
+
+Overall my experience was awesome under ankush sir
+
+I did the Java(Foundation and Data Structures) Course under Ankush Singla Sir. My experirence in one word – Awesome!
+
+The world is brimming with programming courses. To go through their description, level of teaching, quality of teachers, students' feedback, payment details in itself is a cubersome task. If you spend all this energy finding out one, then you are already lagging behin my friend. Because there was a chance to cut it short.
+
+Try a course at Coding Ninjas, and I am sure you will never regret it, except saying to yourself why you didn't do it earlier.
+
+The teachers, the lectures, the enviroment, the doubt clearing sessions, the assignments, the career guidance, name it and I can produly say you'll find it in the best possible way here.
+
+Ankush Sir is simply great! Consider yourself lucky if you get a chance to learn under him. If you love programming this course and this platform is best for you. If you hate programming, worry not, as you go through the course you can't help but love it!
+
+P.S. : They have limited seats, better hurry up!
+
+%%
+
+
+My experience with Ankush Singla Sir as my mentor has been one of the best learning experiences. I did the “Interview Preparation Course”. Believe me , that course was the life changing course for me. That course not only improved my coding but also increased my confidence which is required so much while giving the interviews. Coding Ninjas is like a Gurukul Of Programming. If Programming is your religion , then the faculty of Coding Ninjas is your God. What makes Coding Ninjas different from the other coaching institutes is their faculty and teaching methods. They give equal importance and time to each and every student even if the batch size is 50+. They donot ask to you rote the things or the algorithm, instead they help you in understanding that thing/algo in such a way that there is nothing left to rote. While teaching an algo or a concept, they would never say “Ki ye aise hi hota hain “, instead they teach that concept in such a way that would make that algorithm/concept very trivial. Lots of assignments are given regularly and various possible approaches to questions are discussed which is so important from the interview point of view. In the end , I would recommend Coding Ninjas to anyone who wants to learn to code or wants a confidence boost in his/her programming skills. Mark my words “ If you are attentive and serious in the class and do your assignments regularly, Taking that course at Coding Ninjas is going to be one of the best decisions of your life”.
+
+
+%%
+
+
+Studying under the faculty of Coding Ninja, especially Ankush Bhaiya, was one of the best experience of my student life. From someone who knew nothing about programming, i was able to solve complex coding problems. This was all down to the hard work of Ankush Bhaiya, who would just clear every doubt I have. During the course I was one of the weakest students there, but he gave a lot of personal attention to me, he would specifically come to my desk to ask whether I had any doubts and would clear them ask with utmost patience.
+
+I did three courses from Ankush Bhaiya
+
+1.  Basic java programming- This course concentrated on data structures. Dbms, os, oops concepts were also taught. This was my favorite course, everything was started from scratch and I got to learn a lot in this course, every topic were given ample time and all doubts were cleared. A lot of assignments and puzzles were given to make us enjoy the course more.
+
+2. Android development - Everything was started from scratch, right down to the process of downloading the software. What I loved most about this course was that we got to do a lot of practical work. In fact, at the end we had to submit a fully functional Android app, to be uploaded on the Google Play Store.
+
+3. Final Step - This course was all about the process of preparing for placements. Here, everything required to tackle placement sessions were taught. Separate interviews were taken by the teachers to prepare us for the real deal.
+
+I really had a great time studying at Coding Ninjas. All three courses really taught me a lot. I would recommend anyone interested to learn programming to join Coding Ninja.
+
+%%
+
+
+I undertook the Java course under Ankush sir. I am a student at IIT Delhi and everyone knows the hype that is built around our college and people naturally assume that we are given the best teachers here. We had a similar course in our college as well having the same course contents. What I can assure you is that I didn’t learn even 10% here in college what I learnt under Ankush Sir. He is simply superb, and doesn’t just teach programming but how to logically think and solve problems. He is a very logical thinker and simplifies the hardest of problems by simply breaking it into parts and teaches in a similar manner. I can assure you that even though I have studied many courses here in college and online but that 1 course still remains the best ever. Now he is one of the co-founders of Coding Ninjas and am sure is fully using those energies in developing quality coders at Coding Ninjas
+
+%%
+
+
+I am a student at DTU , Computer Engineering . I have been an average coder .I have always missed simple concepts like Pointers or Recursion etc. WE all crave for better placements.
+I decided not to join my Internship , instead joined Coding Ninjas. I have been taught by Parikh Sir. He is amazing , and his teaching is very brilliant.
+Many of my basic concepts got cleared. He has a very good approach towards the question and he delivers his fullest to the students. You learn multiple approaches towards solving a particular question. With the environment of students out there you get to know the multiple ways to think of a solution.
+
+So now the question is all the resources and materials are available on the net , why to join such a course. ?
+Well i can give you a reason for that. If you are a person like me who lacks concentration quite often or get distracted , or cant keep up with the pace and requirement of the current challenging and dynamic environment and lastly if you seriously want to bag a good package job. you must definitely join this course.
+
+Advantages of this courses are :
+
+Your basic concepts will get cleared.
+Problem solving ability and reasoning skills will improve.
+Practice of more than 200 questions in the span of the course
+Confidence to solve any new question with better approach
+Tests help you in building your confidence
+Online assessment of your codes
+Not jut Data Structures , but OOPS will also be revised.
+Suggestion : If you are looking to join this course make sure you join this immediately before the second year of your engineering. According to me this is the best time to join this course.
+
+Note : I suggest you to join this course only if you are dedicated to take the advantage of the faculty and this course. Only if you can dedicate enough time to complete all the assignments and tests and all the questions in the class. Because
+
+
+%%
+
+
+My experience with Ankush Singla Sir as my mentor has been one of the best learning experiences.I did my courses more than an year ago and I still receive the same support from his side as he used to provide during the course. My favorite course was Interview Preparation, and Sir has worked with some of the big names like Amazon , Facebook.So, his experience proved really helpful in the form of assignments, lectures and mock interviews to increase my confidence(most important for interviews).After the course, I consider interviews as a fun part of hiring process and never get nervous.After attending his classes and mock interviews, I was able to crack Samsung Bangalore and Amazon.The best part is when we see other students in class developing really cool apps and efficient solutions to the problems, it automatically motivates us to do hard work, so one is highly motivated without any pressure from teacher’s side.
+
+%%
+
+
+
+I did Android development course from coding ninjas and my mentor was Ankush Sir.prior to joining this course I heard a lot about Ankush Sir from my friends.And after doing this course I realized that Ankush Sir is one of the Best mentor one can have.many people can teach a topic but Ankush Sir can teach the same thing in a much better way.The content is discussed thoroughly in class.each and every topic was discussed in a much simpler way and After that small apps were given as homework. Mind it Ankush Sir asks for homework and if it was not done by most of the students then he says us to complete it in class itself.i have never seen a teacher putting so much efforts.every small single doubt of students were cleared in class.All in all it was a great experience being at coding ninjas. Thanks coding ninjas and Ankush Sir for mentoring me :)
+
+
+%%
+
+
+I had a very great experience at coding ninja. I had done the c++ data structure and algo course here. Before joining the course my coding skills were really poor, i don't know how to solve any question using other data structure except for array . Here the teachers introduced me to almost every data structure , and even how to implement and when to implement which data structure. They also gives lots and varities of question which develops our coding skills . Also my course teacher Manisha mam and she is a really great teacher, they makes us to understand the concept from very basic to pro level, no matter how many times you ask the doubt she move on to the next topic only when you understand that thing ,and there were also two teacher assistant which are very helpful and solves any doubts of yours no matter how lame it is. Even if we whatsapp our doubt to our teacher or teacher assistant they solve it instantly . So my experience was amazing, and i think that every must do course from here if they want to be a great coder or if they want to be a ninja in coding :).
+
+
+%%
+
+
+Coding Ninjas are the best institute in Delhi. The reason behind this is that they provide you the best coding knowledge possible. They introduce you with the latest technologies and advance Data Structure in simplified way, they have different courses such as Data Structure in C++, Java, Machine learning course and many more offline courses, they have ranking system within the online course dashboard where students are ranked on the basis of their performance, and even certificates are provided to the students if the score is more than 60% and coding ninja goodies (T -shirt) to the top students. Overall the course is fully packed with great knowledge of coding and even the beginner with zero coding knowledge can can have interest in coding. They will prepare you for your interviews also in the interview course. Even I’m enrolled with the Data structure with the C++, its the best course ever.
+
+
+%%
+
+
+We all know that nowadays only technical knowledge isn't sufficient for us ; technical skills are also an ardent requirement . And there is a huge difference between these two things. So in order to gain hold on both of them , coding ninjas proves to be a perfect place!!.. Where one gets the chance of improving his technical skills.
+
+My experience at coding ninjas has been. amazing. Here are some reasons as to why one should go for it :-
+
+    First and the foremost reason is its exceptionally talented and profound faculty. All the teachers and TAs have done well in their respective fields.
+    The lectures are amazing and the regular assignments and class exercises help us to sharpen our skills and develop a sound approach in various concepts.
+    Even the doubt sessions are very helpful and the presence of the teachers as well as the TAs make it all the more fruitful.
+
+So if you really want to increase your knowledge and skills in the software world …. then believe me ; coding ninjas is just the right place!!.
+
+%%
+
+
+
+I Belonged to a class of non coding people who believed from the very start of their college kife they can never learn to code but Ankush Singla and coding ninjas helped me change it .
+
+i joined coding ninja after being placed at ibm but with a serious underconfidence that i dint know how to code which was must being a computer science student they helped me understand the basics .
+
+The only issue i faced was to cope with the speed at which the assignments are given and balancing it with my semester exams .
+
+The no of doubt classes were not frequent , later during the course and i faced problems in completing my assignments as extra help was not given .
+
+BUT OVERALL IF YOU ARE SERIOUS ABOUT LEARNING TO CODE THIS IS THE PLACE TO BE WITH MR ANKUSH SINGLA AS YOUR MENTOR WHO CHANGES YOUR PERCEPTION THAT ANYONE CAN LEARN TO CODE
+
+
+Imo, CODING NINJAS is the BEST place to train your brain for analytical thinking and master coding skills. The faculty here makes sure that you are getting the logic /math behind every problem and they keep you motivated all along to try solving problems you once feared.
+
+MY PERSONAL EXPERIENCE
+
+I first did JAVA foundation course with Data Structures taught by Manisha Mam and my experience was all over very rewarding . I personally can see a huge improvement in the way I approach coding problems now. I gained confidence and for the first time I saw myself pushing my limits and solving questions that I once couldn’t even begin with.
+
+Machine Learning was another fun course I did from Coding Ninjas. I was taught by Ankush Sir and trust me he makes the Math behind Machine Learning so easy to grasp. He made it way easy to visualize the working of algorithms. Even the TA’s were very helpful. I found myself confused and stuck at times but Ankush Sir and the TA’s always helped me to get the concept clear. It was inordinately a fun and efficient learning experience .
+
+The best part is the environment at CN. Faculty and TA’s are really frank providing you a comfortable space to raise your questions and work on your weak areas with them. You can just ask them things and they would always do their best to make you understand how things work in the simplest of ways.
+
+In case you miss a class you can always book a slot for a video lecture and make sure you do not lag behind.
+
+In the end of each course you get to do a project that helps you bring out the creative version of what you have learned so far.
+
+They also have provision for Online Courses with the same facilities of TA’s and loads of assignments for consistent practice. Also you can watch the video lectures at any time of the day according to your convenience.
+
+FINAL SUGGESTIONS
+
+If you join CODING NINJAS for any course you would be promised the best and quality education in fun and motivational environment with all the help you need. This is the right place to end the hesitation due to lack of coding and development skills, and begin working on turning your dreams into reality. :)
+
+
+It was the very first time that i joined an institute for the preparation of my placement procedure as I faced a lot of troubles during my internships. The course really helped me to overcome a lot of problems like it brought clearity in a lot of concepts which were not clear earlier. Now I feel a lot more confident in handling those concepts and problems related to them. The course pattern is designed in such a way that starts from the very basic and goes up to the difficult parts, which helps a student in learning and understanding the things in a better way. The amount of questions discussed in class is also sufficient and covers a lot of topics in a limited amount of time.Also the teaching faculty is very helpful and friendly and they helped me at every step during the course. I got to learn a lot from them and hope to gain as much benefit from it as possible.
+542 Views · View Upvoters
+ 
+
+
+coding ninjas is indeed the best place to learn coding from.
+
+i myself struggled with coding till my 3rd year as my concepts were very weak and i did not have have programming fundamental subject in my 11th and 12th. i would like to advice each and every student who wants to get a job or who wants to learn programming concepts in depth to join coding ninjas as we used to waste a lot of time in procrastination and doing absolutely nothing.
+
+teachers are awesome at coding ninjas , specially manisha mam, who was very supportive and cooperative with each and every student. at coding ninjas u r taught each and every concept with lots of examples and coding problems so that u get the concept easily and in depth.
+
+a little bit of hard work can make u a good coder as their material is more than enough .
+
+
+%%
+
+
+Such a waste of time for web development.......no study material is provided in hard copy.......besides......video backlogs are given but i had to wait for 2 weeks for a backlog..........they teach too many new things which is very silly as teaching a little bit of so many things is not good teaching practice.....this is review for web development rails course.......i agree it was my mistake too that i did not work hard but surely course not worth 23000 fees.....its only a hype..........all i want to say is that successfuly creating a website on localhost.......will not lead u anywhere.......if really want to learn something it can only be done by getting placed in sum company...... they will train u properly and also provide stipend.........
+17 Views
+ 
+
+%%
+
+
+To put my experience in a sentence:
+
+“Blew expectations out of proportion.”
+
+It was the summer of 2017 and I was back at home after the fourth semester at my college. I was looking around for a course that I could complete during my break and found Coding Ninjas through Google.
+
+After researching for a fair bit I considered applying for the offline course called Inception which included Introduction to C++ and Data Structures. The only problem for me was the relocation. It would cost a decent sum of money and as it turns out the enrollment had ceased by the time I decided to opt for the course.
+
+After contacting them, I was recommended the online course which I was quite skeptical about, initially. I wasn't sure whether it would be as impactful, or resourceful as an offline, classroom course. Boy, was I wrong.
+
+I took a leap of faith and opted for the online course which started on 10th of July. I can vividly recall the first lecture and the introduction of the course which was very impressive and I was hooked.
+
+I learned a lot during the first month and I was very satisfied with the course, "It couldn't be better" I thought to myself but little did I know that it would only get better in the second month with Data Structures.
+
+I had learned so much in just the first two weeks that it blew my mind. I was exposed to the underlying interrelation of concepts which I didn't know existed until this point in time.
+
+Most courses grow dull over time and you only continue studying to make the most out of it and the money that you've spent. But with Coding Ninjas it was nothing of the sort. The reason why I kept on with it wasn't to justify the monetary value for my own sake but because of how thrilling the experience was.
+
+And that was my experience with the course. It was immensely helpful to me as a CS student and more than that it was one hell of an experience! I have never enjoyed a study course so much. The expectations I initially had were blown out of proportion by this point. Below are some of the points about the course.
+
+    Course Structure: There were assignments, following the lectures, which helped reinforce the learning of the complex concepts which lead to tests that would either raise you up the leaderboard or down which was very motivating and functioned to drive me to work harder in order to climb higher on the leaderboard.
+    Support System: One of the best aspects of this course was the TA support who were immensely helpful and you can contact them at any time to help you move along with the course. Additionally, there was also a WhatsApp group which was great to resolve doubts and queries. I usually got the response from the group right at the moment, whether it was from a mentor or my peers.
+
+The mentors are very cool as individuals and exceptional teachers. They break down complex concepts to core ideas in a way that makes it way easier to grasp them.
+
+This course also helped me crack the interview and I am really thankful to the whole team of Coding Ninjas for this. The course is worth every single penny in my opinion and it shouldn't be a question of whether to opt for it or not. The question is a no-brainer in my opinion.
+
+If you are thinking of pursuing this course then I would suggest you go for it without any doubts.
+
+Hope it helps:)
+
+%%
+
+JUST THE BEST!
+
+CODING NINJAS comprises of some of the best coding faculty in Delhi. The faculty are all highly qualified professionals.I joined the Inception (C++) (weekend) batch, and was tutored by none other than Ankush Singla Sir himself . It was my second semester and things had been going quite slow in college with regards to programming. I wanted to polish my skills and also get a better understanding of Data Structures.Not only did they help me clear all my doubts but also taught me different approaches to the same problem and how to choose a particular approach for faster/more efficient results.Also they give regular brain teasers in their lectures and sometimes they can be quite challenging. All in all, the place is a one stop home for coders and programming lovers. Also they teach you how to give programming interviews and improve your chances of a better job.
+
+My personal experience with the Coding Ninjas team has been an awesome and unforgettable one . Here are some of the pros according to me if you join this place :
+
+    You learn from alumni of IITs, IIITs and ex-employees of Facebook, Amazon like Ankush sir , Manisha ma’am ,etc who would help you out clear any sort of doubts regarding your course or career.
+    You have TAs ( teaching assistants) along with Coding Instructor in your batch to make ur doubt clearing a smoother process.
+    You practice a lot through well constructed assignments and class exercises which increase your confidence and clarity in the technical concepts manifolds.
+ 
+%%
+
+Coding Ninjas' ambience and its faculty is absolutely amazing. In my first and second year of college, I used to absolutely hate coding. However, ever since I got admitted here, I actually enjoy coding! Ankush Bhaiya is such a kickass teacher and an amazing human being.You can learn so much from him every day! Everyone here is so helpful, influential and inspirational. Nidhi ma'am also taught us once and she's just too good. Manisha ma'am solved my doubts one day so yeah she's great too!
+The best part about CN is you can just waltz right in this institute any time, with hell lot of doubts in your pocket and a smile on your face, someone or the other will always be there to welcome you and help you out! :)
+
+%%
+
+Ninjas has been amazing.
+
+I got admission in Computer Engineering at DTU, but had no previous knowledge of Computer Science. I joined Coding Ninjas and felt that it was a great decision. I did Java and Android courses from here.
+
+This place is incomparable to other coaching institutes.
+
+1. The infrastructure is great!
+
+2. All the teachers have in depth knowledge and know how to impart it too
+
+3. Attention is given to each student
+
+4. Missing a class is not much of a problem, video recordings to the rescue.
+
+5. Focus on building projects (in Android and Web Development courses) and applying concepts and solving questions (in Java and C++ courses), and not just listening to some theoretical lines.
+
+What else does a student want? :P
+
+%%
+
+
+Awesome teachers+ Awesome course content ---> Pure awesomeness
+
+CODING NINJAS is an excellent institute to enhance your programming skills. I did the java course (data structures+algorithms) with Ankush sir as my mentor. From day one focus was on building logic rather than rote learning of algorithms. After each class we were given assignments to practise problems on the topics covered in the class. This way we had a much deeper understanding of the concepts. The course covers almost every topic that are usually asked in programming interviews thus making it a must do course for everyone. Currently I am doing app development course and enjoying it to the fullest.
+
+%%
+
+Coding Ninjas is the best online Coding Teaching institute. The teacher's teach at Coding Ninjas are from top college's of India and abroad (Stanford,IIT,IIIT,BITS). All the courses are well structured according to the industry demands. It will give you great exposure of learning. If you are looking for one of a kindcourse in the market, then Ninjas is the best place for you! The features of the online courses are at par or even better than their regular offline course. You have the opportunity to be taught by amazing mentors, you can clear doubts from a TA who will be present 10 hours a day by chatting, audio/video call or showing the code.
+
+These courses have weekly webinars with a mentor to student ratio of 30:1, to solve tricky questions and discuss doubts. These courses are adaptive so needn’t worry about thecourse’s pace. Oceans of questionsandassignments to practice to turn you into a pro! They also help you to get good internship and provide you guidance about your career . Go Ahead and take your first course with Coding Ninjas and improve your Coding skills at the par of industry needs.
+
+
+%%
+
+CN is simply awesome. If you are a noob, or had Computer science in 11th and 12th, in both the cases you must start from here. They are great at it. You learn so much and most importantly you learn what is relevant. The problems that are assigned are actual problems from interview of likes of Facebook and itself. Another great add on is Codezen. It has great problems, blogs and prizes as well.
+
+For those who had computer science in 11th and 12th, if you are not sure about going for C++ again or not, then definitely go for Java. I went for it, I realized I can very easily copy my C++ codes to Java with a little twerking and everything works fine. What do you get then, you not only learn syntax for a new language but more importantly how to solve coding problems which most of us were not taught in school.
+
+I would personally recommend you CN. You can join it and you won’t have any regrets. First 10 classes will definitely seem boring for those who already know C++, but believe me after recursion, things are gonna change my friend.
+
+Rest is up to you.
+
+Ps. they also give pizzas on the last day of the course.
+430 Views · View Upvoters
+ 
+RecommendedAll
+Vani Goel
+
+Naman Wadwa
+Naman Wadwa, studied Computer Science at Maharaja Agrasen Institute of Technology
+Answered May 5, 2017
+
+I was taught by most qualified teacher at coding ninjas .i will write what i got in reality
+
+1 Infrastructure is good also their new coding assesment tool codezen.
+
+2 Teaching style is boring. No doubt classes and no one take responsibility for that
+
+3 Teaching Assistant concept is to poor all doubt classes are taken by TA and they are just students so they are not so much proficient to solve doubt like teacher but teacher is not interested in taking doubt .
+
+4 Course pace is too fast after initial 10–12 classes. Classes are not interactive like needed to code.
+
+5 90:1 means 90 students and one teacher in a single class so no focus on students
+
+6 Fees is too high for just 24 classes in which actually teacher teach you for 2 hour each class approx and rest of the time out of class so only 50 hour approx for whole course , course content is too less and jumbled.
+
+7 No placement and internship help for students
+167 Views · View Upvoters
+
+%%
+
+Coding ninjas was a fabulous experience for me. Being in IT branch of NSIT i always knew i had to code but always procrastinated. I joined coding ninjas where i started to learn a lot . More focus was on logic building throughout the course , I admired the way Manisha maam would teach us and make the difficult questions appear to easy. Focus was on data structures , OOPS , recursion some key concepts of programming , using their tips and tricks i am able to approach each problem compared to the days when i used to just see questions and leave. Most of us feel that coding cant be learnt and so “why should i join an institute?”, yes its absolutely true but here emphasis is on approach to a problem which makes things appear simpler and you start to appreciate the amazing codes which you able to do . A coder is just like a soldier entering a battle field where he has to deliver and coding ninjas can surely help you to be equipped with weapons , so i would recommend you to join it and explore a new side of learning.
+962 Views · View Upvoters
+ 
+RecommendedAll
+Vani Goel
+
+Vinay Bansal
+Vinay Bansal, works at Balvantray Mehta Vidya Bhawan Anguridevi Sher Singh Memorial Academy
+Answered Nov 4, 2016
+
+It was a nice experience at Coding ninjas.Coding ninjas is the perfect place to start coding and to dive into the programming world.I enrolled for C++ foundation Course-INCEPTION.Teaching method is different and focus mainly on problem solving.I got an opportunity to teach under the guidance of Ankush Sir.Earlier I did not know C of coding but after doing foundation course I am quiet confident enough to think for any problem and try to solve.The course material and assignments are up to the mark.The faculty and TAs are very helpful.Online tool is the best thing to practice questions ,to give test on regular basis.
+
+I recommend this course to all the beginners who want to start coding.
+
+%%
+
+
+Long story short -
+
+1. In the world full of pressure and competition, Coding Ninjas is a place where all your doubts and confusions are always patiently heard and gets cleared.
+
+2. Course is well structured, spreading easy problems evenly with medium and harder problems to help you find motivation to just go on.
+
+3. Content taught here is incomparable with any other coding institution and you will not even realize your transformation from beginner to a Coding Ninja
+
+4. Teachers here teach with basics of every topic and you get a lot of time to explore coding.
+
+5. Teachers here are easily accessible.
+
+6. Support of Teaching Assistants (TAs) is just awesome. At 1 a.m. also you are likely to get TA support.
+
+7. Learning here in such a friendly and positive environment really does wonders.
+
+8. You will never ever regret your money invested here :)
+
+To avail discount of Rs. 1200 on all online course, use following referral code while registering :-
+
+%%
+
+
+
+I joined Nucleus Batch(Java) which was taught by Nidhi Mam and I can say this was one of my best decisions.From the first class the focus was totally on concepts. Now I have confidence in topics like recursions and data structures. TA are extremely helpful and friendly too. Many questions related to interview are covered in the class only. Online tool was really helpful in checking the time and space complexity of the program which many new students neglect. Mam has really good knowledge of all the programming concepts and all of my doubts were cleared nicely. I was really bad in programming in 11th 12th class but now i have a good confidence in most of the topics. I am thinking forward of taking Android Development course too.
+
+%%
+
+Took the flagship course : 'Interview Preparation'
+
+1. Exceptional course. (must for every college student of CSE/IT).
+
+2. Found phenomenal mentor/guide in Ankush Sir. His sharpness and eagerness to answer your each and every little query is seen to be believed.
+
+3. Overall, had an amazing experience. Vacations' time best spent.
+
+Would strongly encourage all my juniors to join CN. Start with foundation courses from 1st semester, and explore all courses and technologies from the best faculty.
+
+Would've loved to take all courses if it existed in my first year.
+
+%%
+
+
+I came from a place where all I knew about coding was what they taught at school. And I had to prepare for companies visiting campus for internships. The current team of coding ninjas helped me a great deal in preparing for interviews. Ankush sir has experience at companies like Facebook and Amazon. His way of teaching is by far the best I have seen. Not only do you learn how to approach a problem for a solution, you also learn how to improvise that solution. The best in what they do, they are a team of extremely hard working people and pay attention to every single person in class.
+
+You should definitely go and learn here.
+
+%%
+
+
+As we all know there is a huge gap between the engineering college education and technical skills required in the real world , so most of us are in a dire need to bridge this gap .
+
+My personal experience with the Coding Ninjas team was not so Awesome but I can say GOOD . Here are some of the pros according to me if you join this place :
+
+    You learn from alumni of IITs, IIITs and ex-employees of Facebook, Amazon like Ankush sir ,etc who would help you out clear any sort of doubts regarding your course or career. I personally seek their help till now ( its been an year since I completed my Java course with them ).
+    You have TAs ( teaching assistants) along with Coding Instructor in your batch to make ur doubt clearing a smoother process.
+    You practice a lot through well constructed assignments and class exercises which increase your confidence and clarity in the technical concepts manifolds.
+
+You are taught how to approach a problem and apply concepts to tackle it, rather than learning the concepts or ‘aisa hi hota hai’ attitude.
+
+If you want to make a positive difference to your problem solving abilities and increase your level in the technical concepts and skills for the software industry there can be no better place than Coding Ninjas.
+
+%%
+
+
+Teachers and mentors have always been a very important part of my life. They have influenced me in several ways and provided motivation. The team of coding ninjas was a part of this process. At NSIT, there are a lot of people who are great programmers and during my first year, I found it somewhat difficult to reach that level of programming competency. At coding ninjas, they helped me develop mental models that are related to programming, which is the very first step in becoming a great coder. It provided me the necessary motivation as I discovered and learned that programming can be logically simple and beautiful. And the most important part is that self taught programmers mess up with a lot of things, so you need an expert guidance on this path! So, there can be nothing better than Coding ninjas if you wish to improve your technical abilities.
+
+
+%%
+
+
+This is the best place for programmers and developers to learn and grow. The course content and tool is amazing,one gets a lot of stuff to practice. It was a great preparation for interviews, mostly all the questions i come through in companies have been done at coding ninjas. Class tests,practice tests,assignments on tool,code kaze add an edge to programmers at coding ninjas. Ankush sir is amazing as he can explain you a difficult problem in a really simplified manner. I was able to approach the people at coding ninjas any time regarding any kind of problem. They really help you regarding career related suggestions and views, which help you develop far better than others. The puzzels discussed in class and on code zen are an exciting part of the course. Finally,i really liked the teaching style and help by TAs.
+
+%%
+
+
+Coding Ninjas is a fabulous place to boost up your power of thinking , your intelligence. An awesome piece of stuff being taught by an awesome bunch of teachers . All the teachers are really very helpful and cooperative . I was not so good in programming , but after the end of course I have developed a great confidence . Rigourous problem solving will make you have a good hold on the concepts . All the assignments given to us are very nice. My coding skills have improved a lot , Thanks to Ankush Sir!!! . Programming is the thing that will never make you feel bored ,it gives you power to think , to tackle problems .So i suggest to all to join this institute and improve you quality of coding!!!
+615 Views · View Upvoters
+
+%%
+
+
+My experience of Coding Ninjas has been amazing, the quality of teaching imparted by the faculty of Coding Ninjas is exceptional. If you want to learn the art of programming and master the core concepts of Computer Programming then Coding Ninjas is the place.
+
+I did my programming course in Java taught by Nidhi Mam, the method of teaching is amazing. The faculty is very much helpful, they are willing to clear your doubts with their utmost attention. Learning the art of programming is fun at Coding Ninjas.
+
+I strongly recommend Coding Ninjas to someone who wants to learn programming. Ankush Bhaiya is a great teacher. I feel myself lucky to be able to learn programming under his guidance and supervision.
+
+Mark my words, Coding Ninjas will change your perspective towards the world of programming. Just because of the help and teaching imparted by the faculty members of Coding Ninjas, I have been to able fully grasp the concepts of programming with great ease.
+
+%%
+
+
+Coding ninjas is an excellent place to study in..I was enrolled in the JAVA FT 2016 course and it was an amazing experience world of competitive coding. Manisha Mam and all the other members of the CN family are really helpful and helped me a lot in my journey.They taught me a whole new outlook of tackling even the toughest of
+problems. The concept of Teaching Assistant at Coding Ninjas is really
+unique and makes it different from the rest. They enlightened my path as to how i should deal questions..
+
+%%
+
+
+I did the Interview Preparation course. Before joining this course i was not very good in Data Structures and Algorithms. But now I really feel that i can solve all the easy and moderate level questions and some difficult ones too related to algorithms. Ankush Sir taught us each and every topic from the scratch. If someone had a doubt in any question he would always ready to explain it even for 100 times if you want. The assignments provided there included all the good questions that could be asked in interviews. The regular tests also enhanced my knowledge and thinking skills. The course really helped me to gain confidence in coding. Lastly I would recommend to all who are facing problems in solving data structure questions to join this course.
+
+%%
+
+
+Its been a really good experience over here .Perk of the course was being taught by MR.ANKUSH SINGLA.He is one of the best teacher a person could get ,he was all supportive & positive throughout the course.The only teacher i came across who never got irritated even if u had asked him things for the 10th time, always the same positive attitude "Don't worry ,HOJAEGA he was always helpful like alwayss.ek baar puchne ki der hoti or sir poore efforts k sath vapis vaise hi sb smjhadete the! .I still remmeber in the very first class sir asked if u got it or not, nd i was the only one to raise my hand ,no sir ,he explained all of them again and that was not it after the class he came to me asked again did u get it or not i again said no . Then he asked what didnt u get n i was like nothing and then i was amazed to see he sat with me and explained everything like everything he just taught,AGAIN and i got those pattern making he was so calm and patient ,positive never gave up on me and finally i understood all these codes .I came here as a fresher, with no coding experince ,actually i was scared of this word "coding" , i just hated coding, but sir made it so comfortable for me and now i can say yeah i know coding and I CAN DO IT. Now i am able to build logics, write the codes.This is the place where u can actually UNDERSTAND coding (these people not only claim to make u understand it but actually put all their efforts to make u learn each and every concept thoroughly)and can make u a champ in it.Their Online tool codezen is great . Regular tests doubt sessions are really helpful.
+
+I would lastly say if u r new with coding,please join coding ninjas and be regular ,put all your efforts and just ask again if u dont get it (as it do happens to lot of us u r not the only one\U0001f609)they will deffintly help you (for sure,even if its ur tiny doubt ,even if its related to the basics\U0001f60a)and do attempt all the assignmnts regularly. U will love to code after comming here (it will not be a burden anymore)
+
+
+%%
+
+
+Certain qualities about Coding Ninjas that sure did appeal to me -
+
+    Regular tests held on their online portal to check performance of all students.
+    Healthy teaching environment with enthusiastic and active teaching faculty.
+    Good teaching assistants, always on their toes, ready to help any student in need of it, also holding regular doubt classes for concept strengthening.
+    Good infrastructure, complimenting the technology being used for interactive lectures.
+    Loads of practice to boost students’ confidence.
+    Important points about interview questions and mannerisms told by the teacher throughout the course.
+
+
+%%
+
+
+My experience with coding ninjas has been one of the best experiences of my life. They teach right from the scratch and explain each concept with a lot of patience. Ankush sir and Manisha ma'am make everything so interesting. We cover the important things that are needed for interviews. The teaching style is just so awesome. The whole course along with preparing us for interbiews and building our programming skills also definitely builds our logical ability. Coding ninjas is truly a must try experience.
+
+%%
+
+
+Its been a great experience studying at Coding Ninjas studying under the guidance of Ankush sir. previously i had no experience in coding and i was hesistant doing the same but after completing this course i can say i m no more hesistant to coding. Ankush sir is really amazing in the way of his teaching and guidance. the faculty is really helping and co-operative. to those, who find coding difficult . i promise that coding ninjas would make way of coding interesting and easy for you..one of the best part of coding ninjas is the practice questions and even have amazing online portal codezen which is just the right platform to cultivate the competitive spirit which further persuades people like me to expand the scope of improvement.they also have monthly competition codekaze and the best part is we get goodies for performing good. i recommend coding ninjas since it gives you the right environment to get the coder out of you.
+
+
+%%
+
+
+The experience here has been overall great. Definitely worth the time and money. The teachers here are very helpful and friendly and help us in every way possible with their assistance. I was taught by Ankush Sir and he teaches everything with so much ease and invests appropriate amount of time that is required on every topic and teaches unless everything gets cleared. There are Teaching Assistants as well to help us during the class and are very patiently clear all our doubts. Back up video classes are also arranged prior to the next class so that we don't lag in the course's content and have our concepts clear before the next class. The tool, Codezen is an amazing way to improvise our skills. The questions that are discussed in the class and provided on the tool are worth solving and improving our skills. Lastly, the infrastructure here is also very nice and well maintained which helps in studying comfortably.
+
+%%
+
+Coding Ninjas is just best in its business
+
+I am currently pursuing B.Tech in ICE from NSIT ANS took up the JAVA NUCLEUS course and was taught by Ms. Nidhi Agarwal. She is a very experienced teacher and a very helpful person. She is always ready to solve your doubts and keeps explaining the thing till you understand it. The whole faculty at Coding Ninjas is very passionate, innovative and well- experienced.
+
+the infrastructure at Coding Ninjas is also fabulous. It offers you the perfect condition for studying and doing coding since they have customised rooms based on themes like python, apple, git, android, etc. Their coding platform CODEZEN is just second best thing after faculty.
+
+%%
+
+Ankush Sir taught me Java and Android App Development. Like many others, in my second year I too was struggling with programming. I was working hard but what my hard work lacked was the right direction. So, there was progress but it was slow. Ankush Sir provided the right guidance and motivation and my growth as a programmer was more than it had ever been. I would recommend Coding Ninjas to anyone who wants to be introduced to the world of programming, to those who have a genuine wish to learn new skills and to those who just want to have a better chance of cracking a good company.
+
+%%
+
+
+This is the best place for enhancing coding skills and getting​ motivated towards coding. I joined inception course in this institute. This course helped me to create a path in coding. The best thing about this course was the way Nidhi Ma'am taught us. He is an amazing teacher and makes coding interesting and he taught each and every topic in depth. I am very thankful to him for enhancing my coding skills and developing an attitude of perseverance in me. Teacher's Assistants were also very helpful and polite.
+
+
+%%
+
+
+During all of this, I was desperate to add a skill using which I could make something new and useful. Thinking start my own thing in the future with a revolutionary product. I got to know about the courses form my sister and also that the teachers are some guys from Facebook & Amazon. It caught my attention but was a little skeptical as I was against any sort of tuition or coaching (a very strong believer in learning on my own, completely). Still I applied on his recommendation and also as I thought this would add up to my skills and help me with my B.tech.
+
+Alright, this is getting boring, so, fast forward, I got an admission into the batch of Programming in C++ taught by Ankush Singla .I made sure that no class is being missed by me and i will complete all my assignments on the regular basis which helped a lot to me in my coding skills. And the with the help of the teaching assistants this course becomes more easy to understand and the kind of atmosphere provided here is very good as compared to other institutes as the way of providing the lectures is good.
+
+%%
+
+
+Coding ninjas is simply the best place where one can begin and even expertise one's skills of coding.
+
+Since i did the foundation course so i would like to tell about that only.
+
+Manisha maam started from very basic then slowly we moved to a bit advanced level. I specially love the attention given to each student and doubt class conducted almost every other day.
+
+Also, our TA’s were really helpful.
+
+Manisha maam was highly knowledgeable, you ask her anything and she is ready with the answer.
+
+I feel coding ninjas is a place where we learn how to think and make logics…since here people dont spoonfeed you, you are given enough time to think about the solution and in the end you are actually able to crack it!!
+
+%%
+
+
+Hello
+
+I attended java nucleus batch at Coding Ninjas. The course has 25 classes which are divided into different sections from basics to advanced. The real question is why students want to join these institute because due to their exceptional marketing skills, you see what they want to show you.I will explain to you how it goes first of all most of the students see teacher qualifications before joining any institute and all of the teachers are highly qualified like form Standford, IIT,IIIT no doubt but is it really matters the real answer is no, if the instructor is highly qualified that doesn't mean you will get too much out of his education you will learn only those topics which are in course curriculum. Second and most important thing attract students is placements when you see different ads like 10 students got placed in Microsoft, Amazon yes its exciting but the real point you missing here is their colleges all these students are from premier institutes and these companies visit their campus every year. Most of the students that got placed are from DTU, NSITand if not some students who have done many courses get referral for their promotion If you study at these institutes you can try out their courses but if you are from IP University or any other institute not in top tiers list its not beneficial at all If one of these big companies visit your college see how many students get placed in them its always one or two, if you think you can crack that then you don't need these courses even there are plenty of resources online for learning data structure from where you can learn and crack them . The real point is don't get fooled by these placements first see your college and then check is it beneficial for you or not. The second thing is courses like Android and web development it will cost you around 20k. If you want to learn these there are plenty of courses on Udemy, edX for just 10 dollars you will learn enough out of it don't pay thousands of rupees for that,also they added a feature for online support (T.A) actually there is no benefit of it of paying so much extra money for that and also these courses cannot be taught in 25 classes It took months to master technology like NodeJs and get most out of it, if you think you still need an instructor to learn, go for the institutes which have long-term courses which can help you create enough projects so that you can get job easily at startups. If I say in one line top-tier colleges give these institute a brand name and other give them revenue so decide what you are contributing to.
+
+%%
+
+I was part of the first batch of 'Java foundation with data structure' online course.
+
+    The best part I liked about this course was the TA support. You can ask them all your doubts and they will tell you the right approach to solve that problem.
+    The course moves just at the right pace so that everyone(working professionals or students) can complete it on time.
+    The weekly assignments on every topic contained good quality questions which are asked in interviews of top companies. I learned a lot just by solving these assignments.
+    We also had tests after every 2 weeks by which you can judge yourself how well you know that topic.
+
+Overall, doing this course was a great experience for me and I would encourage anyone who wants to improve his/her coding skills to try out this awesome course.
+
+%%
+
+
+I took inception Course of Coding Ninja.
+
+Initially confused with Coding Blocks or Coding Ninja.
+
+And finally went to coding Ninja and I never regret for my decision, and felt blessed for being the student of Coding Ninjas.
+
+The course initially started with basics- honestly I felt bored because I was not a novice ,but when course took off with topics like Recursion,Trees ,Binary Trees ,Binary Search Trees ,Hash maps ,Graphs and Dynamic Programming- the more involved, the topics went ,the more easier mam(Nidhi mam) made it for us.
+
+You could ask even the most dumbest question and answer would come with smiling face .The course pace was good and initially too slow , but good for newbies .
+
+At last I want to say, go for Coding Ninjas ,I do not know much about other institutes ,but to my research (on web) Coding Ninjas have the best experienced faculty and I have experienced it.
+
+Really good teachers make you love the subject -Nidhi mam is one of them.
+
+At last, go with the best -Because you cannot compromise with the best.
+
+All the best
+
+%%
+
+
+I attended a course on web-development (Alchemy) at Coding Ninjas. My experience over here has been really good. The teachers are very experienced and really polite while helping us out. During the duration of the course, we were given sufficient amount of practical work, and the best way of doing so was through the project we were asked to work on. The project had to be such that it could actually be made into a working site, hence giving us exposure to the real work right off the start!!
+
+%%
+
+
+So i’ll try to be honest and will try to represent a fair and unbiased opinion.
+
+I was real bad at computer science before. With zero knowledge of coding , it was even beyond nightmares for me to code. That’s when i joined Coding Ninjas Nucleus Batch(January 2017) under the supervision of Ankur Sir. In the first two weeks , i thought choosing this course was a waste of money. If u have zero knowledge in this area , then in the start it feels difficult to cope up.But then gradually , things started flowing and the topics started to seem interesting. The teacher literally had good knowledge of the subject and his way of teaching made it possible for every student to understand and learn.
+
+So overall the journey had been amazing , data structures were taught really well(which was the most important topic).
+
+**At Coding Ninjas , they dont generate just coders , they generate Coding Ninjas.**
+
+%%
+
+
+I joined this course to to understand the concepts of programming and Data structures, but this course changed my perspective of how to approach any problem. The way of teaching was very clear and good. There were regular doubt sessions and webinars which prevented us from getting stuck on any particular topic. The assignments they gave had questions of all levels. Easy questions to get confidence and understand basic working and higher level questions to completely understand the working and for competitive programming.
+
+
+%%
+
+I really enjoyed the course, especially the novel pen and paper approach and the online interactive tool where we have to submit assignments. The tool is extremely exhaustive with multiple test cases making learning process extremely effective. Our code discussions on the Facebook group were very effective and assignments were tough as usual but extremely helpful.
+
+The course material especially the puzzles are amazing and Ankush Sir's teaching is better than ever.
+
+I am extremely grateful for the opportunity we got to interact with the old students who are now placed in prestigious IT companies. Their guidance was very valuable.
+
+All in all, I enjoyed Interview Prep Training and hope it's a success for me.
+
+%%
+
+
+If you want to learn problem solving and coding then definitely join it.
+I had an awesome learning under Ankush bhaiya ,i joined C++ course, before that i used to struggle writing code and understanding data structures, but after learning from ankush bhaiya coding become easier.
+He teaches concepts very well.
+Anyone who wants make to make it big in IT industry  just join here , you will learn a lot.
+I got offer for internship at Amazon as well which seriously i never imagined :)
+
+%%
+
+
+Courses at Coding Ninjas provide an in-depth level of understanding of topics and help build confidence in people who have just started coding. The level of teaching is hard to compete with. Ankush Sir has been my teacher for both the courses I've taken here and his classes have really helped me in understanding the approach to take while solving problems.
+
+The variety of courses provided at Coding Ninjas are a must for anyone who is studying computer science and wants to work on technical skills required in the industry. It's better to start early, especially in your first or second year. I know that I would’ve had I known about it earlier.
+
+%%
+
+
+This is the best place for enhancing coding skills and getting​ motivated towards coding. I joined inception course in this institute. This course helped me to create a path in coding. The best thing about this course was the way sir taught us. My teacher was Nidhi Ma’am. She is an amazing teacher and makes coding interesting and she taught each and every topic in depth. I am very thankful to her for enhancing my coding skills and developing an attitude of perseverance in me. Teacher's Assistants were also very helpful and polite.
+I am glad that I joined coding ninjas.
+118 Views · View Upvoters
+
+%%
+
+I completed the “Triumph”(Interview Prep) batch last year.
+
+The experience was OK. I learned some things. Ankush bhaiya is approachable and his style of teaching is engaging.
+
+Topics that were covered thoroughly: array, pointers, trees, recursion, backtracking, and DP.
+
+Among the promised things there were many topics that we never touched: pattern matching, operating systems, databases, hashtables, tries.
+
+And some that were covered just for the sake of it: system design, graphs, oops.
+
+So make your priority - what are you really looking for.
+
+Overall I’m disappointed. Why include it in the curriculum if they aren’t going to be taught. I thought Coding Ninjas was something more than business.
+
+
+I joined Envision after having done Java course from Coding blocks.
+
+The course started from a quick recap of Java fundamentals and then slowly went into core Android. The teaching was very patient and doubts were resolved.
+
+The syllabus/material was good. We also got pdf notes for most of the topics.
+
+One thing I feel which needs to be improved is that the same sample project should not be used to teach all the topics. One topic gets mixed with the other if we keep editing the same project for different topics.
+
+Since I am a working guy, I missed few classes in between but was easily able to book backup video lecture for the same.
+
+Overall a good experience. Thank you Manisha mam, Priyal (TA) and entire Coding Ninjas staff.
+
+%%
+
+
+I have already studied C++ during my school days, but still I had not any confidence over my coding skills even studying it during my first semester of my college.
+
+Then I joined Coding Ninjas, and the way Nidhi Mam teached it helped me tackle some hard problems and let me solve them easily. This course was very helpful for me as each and every topic was covered in depth. I will surely recommend this course to my other friends.
+
+The TA’s were also very helpful.Extra classes were conducted to clear doubts. Assignments were also well designed so that in grasping that concepts no stone will remain unturned.
+
+%%
+
+
+Well, with the increasing era of technology we all know how important it is to catch up with it and coding ninjas provides you with the answer for it with its amazing courses. Since my first course here my interest in field of IT has increased even more with the efforts and confidence that my teacher has put in me. And also one more thing worth mentioning is Codezen, which besides being a great IDE for our assignments provides us with daily questions to work upon which keeps you going. So yeah, my experience here has been pretty good!
+
+%%
+Deepanshu Jain
+Deepanshu Jain, Teaching Assisstant at Coding Ninjas (2017-present)
+Answered Apr 29, 2017
+
+When i joined coding ninjas i was not even able to write a simple code to print "Hello World" . But now with the support of Ankush Sir and TAs i am able to write atleast some codes. Moreover the video backups and codezen are the special features of this course where you can watch the lectures you missed and analyse your progress respectively. Though the fee is high in comparison to other institutions in the field but its worth each penny you spend if you are interested in a successful career ahead whether you want placements or do competetive programming this is the place.
+
+%%
+
+
+I highly recommend Coding Ninjas to anyone interested in the IT filed. Over the years the IT industry has grown a lot and the education provided in various colleges and universities is incompetent and obsolete. Thus according to me it has a become a necessity to learn and master new technologies, and i cant think of a better place than CODING NINJA.
+
+Here u get to learn from the pioneers and masters of the industry. ANKUSH SINGLA is the finest teachers you can learn from.His methodology and techniques really breakdown even the most complicated and confusing topics . His ever so patient approach makes sure that each and every student has understood the topic before moving forward even if it takes hours explaining and reexplaining.
+
+The online tool CODEZEN is pretty awesome and covers all the major and necessary topics and question that one may encounter in an interview or test. It really makes doing assignments pretty easy and fast.
+
+The T.A are always their to help you if u get stuck or any doubt arises in and out of the class. The regular doubt classes and tests make sure that each topic is clearly set in ur mind.
+
+So i highly recommend CODING NINJA to any one interested in joining the IT industry
+
+%%
+
+
+I have recently done inception course ( C++ basics with data structures) from coding ninjas, I would say that it is completely a worthy course. The best part of coding ninjas was it's online coding platform where you get a lot of practice questions and gets experience of online coding exams and competitions… Overall I would recommend coding ninjas to all coding enthusiasts over other institutes…
+
+%%
+
+Coding Ninjas is a great place to learn. The atmosphere and faculty is amazing. Every topic would begin right from basics and emphasis is laid on the topics which are essential. The TA's are available for help whenever required. We are made to code a lot in the class, which automatically improves our speed and efficiency as coders. The best thing is you can come up anytime. :)
+
+%%
+
+
+Very good institute in Delhi NCR .
+
+I have completed Java Foundation Course by Ankur Sir. It was a great experience here . I started from very beginning . But interactive teaching method and experienced teacher make my interest in this language . Today i have enough confidence to take part in programming competitions .
+
+It is the best institute for beginner level students who don’t know about programming languages.
+
+%%
+
+Being a student of Coding Ninjas from C++ Inception batch i would tell you that either you do C++ course or any other course that they offer YOU WOULD GET THE BEST FACULTY. I did not know a thing about coding, but the way the teacher taught(Ms. Nidhi Agarwal) was exceptionally good! She started from scratch. If a person not knowing english language you would start from abc just like that she started with the basics. The concepts she taught were so easy to understand . The teacher assistant and faculty help you out in every way possible! You would just fall in love with coding. I never thought i would have so much fun. The assignments go from easy to difficult and help you enhance your abilities. Also, the teacher does not forces on rote learining but on understanding the concepts and teaches you how to go about to solve a problem. There are various questions provided by their online coding platform CodeZen.
+
+I just love coding ninjas! I wanted to be there and learn more and more. And i would recommend you to go there and start your coding journey. Don't even think twice before going there. YOU WOULD HAVE THE BEST EXPERIENCE. I GUARANTEE!
+
+%%
+
+
+I did the Cognizance Machine Learning Course by Ankush SIr. The Course was very good. Sir gave us a Very Deep Intuition of every topic before coding it. Between classes sir discussed with us many Machine Learning projects.
+
+Our TA’s Anugrah Bhaiya and Chhavi mam were also very helpful.
+
+In All I would recommend coding ninjas to everyone.
+52 Views
+
+%%
+
+
+I am a 3rd year student in BVP , It has been an amazing experience to be a part Online Java Foundation with Data Structure Course taught by Ankush Sir, and Manisha Mam. Here are the following points regarding Online course :
+
+-> The course is well crafted.
+
+-> Selected practise question that will bring depth to the concept.
+
+->TA support is good. You will not find any diference between offline and online version of the course.
+
+Apart form all of that I want to say that I have done Data Structure myself before joining course but, I didn’t have that much confidence that I have now. Now I am able to solve many problems on online coding platform easily.
+
+
